@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title>Shiva Connect- {page.title}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://gitcdn.link/repo/Chalarangelo/mini.css/master/dist/mini-default.min.css">
+    <link href="/css/style.css" media="all" rel="stylesheet" type="text/css" />
+    
+</head>
+
+<body>
+    <div class="site-body container">
+        <div class="menu">
+            <ul class="list">
+                <li><a href="/"/>Welcome</a></li>
+                <li><a href="/mighty-maca-411"/>Mighty Maca 411</a></li>
+                <li><a href="/faq"/>FAQs</a></li>
+                <li><a href="/top-10"/>Top 10</a></li>
+                <li><a href="/ingredients"/>Ingredients</a></li>
+                <li><a href="/buy"/>Buy</a></li>
+                <li><a href="/benefits"/>Benefits</a></li>
+                <li><a href="/athletes"/>Athelets</a></li>
+                <li><a href="/raves"/>Raves</a></li>
+                <li><a href="/recipes"/>Recipes</a></li>
+                <li><a href="/news"/>News</a></li>
+                <li><a href="/contact"/>Contact</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <% if(typeof(layout_type) != "undefined" && layout_type) {%>
+            <%- include(layout_type) %>
+            <% } %>
+        </div>
+    </div>
+    
+</body>
+
+</html>
