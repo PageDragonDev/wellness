@@ -6,6 +6,7 @@ var permalinks  = require('metalsmith-permalinks');
 var msif = require('metalsmith-if');
 var watch = require('metalsmith-watch');
 var serve = require('metalsmith-serve');
+var markdownBlocks = require('./plugins/markdown-blocks.js')
 
 Metalsmith(__dirname) 
 
@@ -13,6 +14,7 @@ Metalsmith(__dirname)
 .destination('./build') // destination directory
 .clean(true)    // clean destination before
 .use(markdown())   // transpile all md into html
+.use(markdownBlocks())
 .use(permalinks({           // change URLs to permalink URLs
     relative: false           // put css only in /css
   }))

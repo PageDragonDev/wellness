@@ -18,6 +18,10 @@ body {
     flex-direction: row;
     overflow-x: hidden;
     
+    a:hover {
+        color: #ff00000;
+    }
+    
     .menu {
         background-image: url('/images/ovalslice.png')
         background-repeat: no-repeat;
@@ -59,6 +63,7 @@ body {
         
         .footer {
             text-align: center;
+            margin-top: 60px;
         }
     }
     
@@ -129,6 +134,8 @@ body {
             &:last-of-type {
                 border: none;
             }
+            
+            
         }
         
         
@@ -195,6 +202,114 @@ body {
         
         .small-p {
             font-size: 2px;
+        }
+    }
+}
+
+.page {
+    padding-top: 191px;
+    
+    .page-banner {
+        position: relative;
+        height: 231px;
+        
+        
+        img {
+            position: absolute;   
+            left: -42px;
+            min-width: 105%;
+        }
+    }
+    
+    li:nth-child(odd) {color: #000000}
+    li:nth-child(even) {color: #008000}
+    
+    li {
+        font-weight: bold;
+        margin-left: 30px;
+    }
+    
+    
+    
+    h1 {
+        color: #004700;
+        font-size: 27px;
+        font-weight: bold;
+        letter-spacing: -2px;
+        text-transform: uppercase;
+        margin-bottom: 60px;
+        margin-top: 10px;
+    }
+    
+    p {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    a {
+        color: #004700;
+    }
+    
+    
+    
+    h2 {
+        font-size: 20px;
+        font-weight: bold;
+        letter-spacing: -1px;
+    }
+    
+    .left-img {
+        float: left;
+        margin-right: 15px;
+    }
+    
+    .right-img {
+        float: right;
+    }
+    
+    .callout {
+        background-color: #f0efd5;
+        border: 1px solid #080808;
+        margin-right: 30px;
+        border-radius: 20px;
+        padding: 15px;
+        letter-spacing: -1px;
+        line-height: -1px;
+        
+        
+        h2 {
+            font-weight: bold;
+            font-size: 13px;
+            color: #004700;
+            letter-spacing: 1px;
+            
+        }
+        
+        h3 {
+            font-size: 20px;
+            font-weight: bold;
+            letter-spacing: -1px;
+        }
+        
+        h4 {
+            font-size: 25px;
+            font-weight: bold;
+            letter-spacing: -1px;
+        }
+        
+        a {
+        color: #004700;
+        text-decoration: none;
+    }
+        
+        img {
+            float: right;
+            border: 1px solid #000000;
+        }
+        
+        pre {
+            border: none;
+            background-color: #f0efd5;
         }
     }
 }

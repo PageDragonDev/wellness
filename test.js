@@ -1,7 +1,26 @@
-var mylib = require('./mylib.js')
 
-mylib.fubar();
 
-mylib.barfu();
+var someStupidObject = {
+    'css/file.md': {
+        contents: "",
+        mode: '',
+        stats: {}
+    },
+    'css/file2.md': {
+        contents: "",
+        mode: '',
+        stats: {}
+    },
+    a242: "ack"
+    
+};
 
-mylib.merg(mylib.fubar(), mylib.barfu);
+
+var stuff = ['moo','cow','orange','pancake'];
+
+console.log(stuff.indexOf('cow'))
+
+var someString = "Big Bouncing Balls";
+
+var otherString = someString.replace("Balls","Babies");
+
