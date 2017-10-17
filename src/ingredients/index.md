@@ -5,7 +5,7 @@ banner: /images/maca5.png
 ---
 
 ## Mighty Maca Plus Contains:
-(click on each for more info)
+<p class="small-p">(click on each for more info)</p>
 <img class="right-img" src="/images/ingredients.png">
 <li><a href="/maca">Maca</a></li>
 <li><a href="/spirulina">Spirulina</a></li>
