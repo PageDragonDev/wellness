@@ -36,6 +36,7 @@ collections:
     delete: true
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
+      - {label: "backto", name: "back_to", widget: "hidden", default: "/raves"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       #   - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
