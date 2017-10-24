@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: PageDragonDev/mmg # Path to your Github repository
+  branch: master # Branch to update
+media_folder: src/images
+public_folder: /images
+
+collections:
+  - name: "about-us" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "About Us" # Used in the UI, ie.: "New Post"
+    slug: "{{title}}"
+    folder: "src/about-us"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle 1", name: "subtitle1", widget: "string", required: false}
+      - {label: "Subtitle 2", name: "subtitle2", widget: "string", required: false}
+      - {label: "Sequence", name: "sequence", widget: "number"}
+      - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"} 
+      - {label: "Body", name: "body", widget: "markdown"}
+      - name: list_items
+        label: Items
+        required: false
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Icon", name: "icon", widget: "string", required: false}
+          - {label: "Text", name: "text", widget: "markdown", required: false}
+
+          
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    folder: "src/_post"
+    create: true # Allow users to create new documents in this collection
+    delete: true
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      

@@ -2,7 +2,9 @@
   "name": "mmg",
   "version": "1.0.0",
   "description": "Mighty Maca Greens",
-  "main": "metalsmith.js",
+  "scripts": {
+    "build": "node metalsmith.js"
+  },
   "dependencies": {
     "ejs": "^2.5.7",
     "metalsmith-layouts": "^1.8.1",
@@ -15,9 +17,6 @@
     "metalsmith-serve": "0.0.7",
     "metalsmith-stylus": "^3.0.0",
     "metalsmith-watch": "^1.0.3"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
