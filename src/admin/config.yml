@@ -28,10 +28,10 @@ collections:
           - {label: "Text", name: "text", widget: "markdown", required: false}
 
           
-  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "News" # Used in the UI, ie.: "New Post"
+  - name: "raves" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Raves" # Used in the UI, ie.: "New Post"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-    folder: "src/_post"
+    folder: "src/_raves"
     create: true # Allow users to create new documents in this collection
     delete: true
     fields: # The fields each document in this collection have
