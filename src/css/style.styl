@@ -261,6 +261,19 @@ body {
         letter-spacing: -1px;
     }
     
+    h3 {
+        color: #004700;
+        font-weight: bold;
+        letter-spacing: -1px;
+    }
+    
+    h4 {
+        color: #004700;
+        font-weight: bold;
+        letter-spacing: -1px;
+        text-align: center;
+    }
+    
     .left-img {
         float: left;
         margin-right: 15px;
@@ -268,6 +281,21 @@ body {
     
     .right-img {
         float: right;
+        padding-left: 15px;
+    }
+    
+    .videos {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        
+        .video-left {
+            max-width: 50%;
+        }
+        
+        .video-right {
+            max-width: 50%;
+        }
     }
     
     .callout {
@@ -303,7 +331,8 @@ body {
         a {
         color: #004700;
         text-decoration: none;
-    }
+        }
+    
         
         img {
             float: right;
@@ -313,6 +342,112 @@ body {
         pre {
             border: none;
             background-color: #f0efd5;
+        }
+    }
+    
+    .split-callout {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        
+        .callout-left {
+            margin-top: 15px;
+            background-color: #f0efd5;
+            border: 1px solid #080808;
+            border-radius: 20px;
+            // padding: 15px;
+            margin-right: 15px;
+            margin-left: 15px;
+            letter-spacing: -1px;
+            line-height: -1px;
+            max-width: 45%;
+            
+            
+            h2 {
+                font-weight: bold;
+                font-size: 13px;
+                color: #004700;
+                letter-spacing: 1px;
+                
+            }
+            
+            h3 {
+                font-size: 20px;
+                font-weight: bold;
+                letter-spacing: -1px;
+            }
+            
+            h4 {
+                font-size: 25px;
+                font-weight: bold;
+                letter-spacing: -1px;
+            }
+            
+            a {
+                color: #004700;
+                text-decoration: none;
+            }
+            
+            img {
+                float: right;
+                border: 1px solid #000000;
+            }
+            
+            pre {
+                border: none;
+                background-color: #f0efd5;
+            }
+        }
+        
+        .callout-right {
+            margin-top: 15px;
+            background-color: #f0efd5;
+            border: 1px solid #080808;
+            margin-right: 30px;
+            border-radius: 20px;
+            // padding: 15px;
+            letter-spacing: -1px;
+            line-height: -1px;
+            max-width: 45%;
+            
+            .body-web {
+                border: none;
+            }
+            
+            h2 {
+                font-weight: bold;
+                font-size: 13px;
+                color: #004700;
+                letter-spacing: 1px;
+                
+            }
+            
+            h3 {
+                font-size: 20px;
+                font-weight: bold;
+                letter-spacing: -1px;
+            }
+            
+            h4 {
+                font-size: 25px;
+                font-weight: bold;
+                letter-spacing: -1px;
+            }
+            
+            a {
+                color: #004700;
+                text-decoration: none;
+            }
+            
+            img {
+                float: right;
+                border: 1px solid #000000;
+            }
+            
+            pre {
+                border: none;
+                background-color: #f0efd5;
+            }
         }
     }
 }
