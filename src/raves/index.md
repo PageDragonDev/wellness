@@ -1,6 +1,6 @@
 ---
 title: Raves
-layout_type: page
+layout_type: raves
 banner: /images/live-young.png
 ---
 

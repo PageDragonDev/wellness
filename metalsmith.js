@@ -1,18 +1,30 @@
 var Metalsmith  = require('metalsmith');
 var stylus = require('metalsmith-stylus');
 var markdown    = require('metalsmith-markdown');
+var collections = require('metalsmith-collections');
 var layouts     = require('metalsmith-layouts');
 var permalinks  = require('metalsmith-permalinks');
 var msif = require('metalsmith-if');
 var watch = require('metalsmith-watch');
 var serve = require('metalsmith-serve');
 var markdownBlocks = require('./plugins/markdown-blocks.js')
+var moment = require("moment");
 
 Metalsmith(__dirname) 
 
 .source('./src')    // source directory
 .destination('./build') // destination directory
 .clean(true)    // clean destination before
+.metadata({
+    moment: moment
+})
+.use(collections({
+    raves: {
+        date: 'date',
+        reverse: true,
+        pattern: "**/_raves/*.md"
+    }
+})) // use `collections.posts` in layouts
 .use(markdown())   // transpile all md into html
 .use(markdownBlocks())
 .use(permalinks({           // change URLs to permalink URLs
