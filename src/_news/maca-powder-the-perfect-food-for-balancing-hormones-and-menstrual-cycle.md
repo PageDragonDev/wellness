@@ -1,6 +1,6 @@
 ---
 layout_type: post
-back_to: /raves
+back_to: /news
 title: 'Maca Powder: The Perfect Food for Balancing Hormones and Menstrual cycle'
 ---
 Maca powder has been around for centuries and considered by the Incas as a superfood. As one of the legends goes, Incan warriors consumed maca powder prior to battle. It helped increase their fighting spirit, strength, stamina and libido.  Maca powder was valued so highly by the Incas, it was used as a form of payment. Maca powder has definitely become popular among athletes as it offers a plethora of nutrients.
