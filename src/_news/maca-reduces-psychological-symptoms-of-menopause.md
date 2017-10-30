@@ -1,0 +1,28 @@
+---
+layout_type: post
+back_to: /news
+title: Maca Reduces Psychological Symptoms of Menopause
+---
+### MACA REDUCES PSYCHOLOGICAL SYMPTOMS OF MENOPAUSE
+
+*By Botanic Choice On June 18, 2012 · Add Comment · In health and wellness, Herbs, Nutritional Health, Vitamins and Supplements*
+
+*by Shari Henson, HerbClip™ Online*
+
+Although hormone replacement therapy (HRT) relieves symptoms of menopause, many women choose not to use it because of its undesirable side effects or adverse risks. Instead, they turn to alternative treatments. One alternative therapy, say the authors, is maca (Lepidium meyenii), which is marketed for its reported benefits in relieving menopausal symptoms but has little published scientific data to support its efficacy. The mechanisms by which maca may affect the male or female reproductive system are not clear. The possibility of maca estrogenic effects is based on its content of the poorly-absorbed phytoestrogen ß-sitosterol.(1) Alkaloids, isothiocyanates, and glucosinolates are also potential active constituents.2 The authors conducted a study to examine the in vitro estrogenic and androgenic activity of maca and its effects on the hormonal profile and symptoms in postmenopausal women.
+
+This study, designed as a randomized, double-blind, placebo-controlled, crossover trial, was approved by the Human Research Committee of Victoria University in Victoria, Australia. Recruited by community advertisement, 16 healthy postmenopausal women aged 50 to 60 years who were experiencing menopausal symptoms participated in this study. All women reported being amenorrheic for 12 months or more and were experiencing fatigue, lack of energy, difficulty in sleeping, and hot flashes of moderate severity. No HRT had been used for at least 6 months, and no other supplements were being used for menopausal symptoms. Fourteen of the 16 women completed the trial. Mean age of the women was 53.5 (± 10.8) years, and body mass index was 27.1 ± 1.8 kg/m.(2)
+
+Seven women began the placebo treatment, and 7 began the maca treatment. Each woman received maca or placebo for 6 weeks, in random order. For the next 6 weeks, the women changed treatment groups, with the entire study lasting 12 weeks.
+
+Maca was obtained in powder form (Maca Power®, Incan Food, Murwillumbah, NSW, Australia) and given to the women in pre-weighed 3.5-g amounts in plastic sachets. A placebo powder made with refined white rice flour of matching color and consistency was also provided. The women were asked to consume one 3.5-g dose of maca or placebo per day in their breakfast cereal, in a soup, or in a milkshake.
+
+At baseline and at weeks 6 and 12, venous blood samples were collected to measure serum estradiol, follicle-stimulating hormone (FSH), luteinizing hormone (LH), and sex hormone-binding globulin (SHBG). Also at those times, the women completed the Greene Climacteric Scale (GCS) to determine whether there had been any change in the severity of their menopausal symptoms. Statistical significance was determined by a P value <0.05. All data are expressed as the mean ± standard deviation.
+
+The authors report that aqueous and methanolic maca extracts were tested for androgenic and estrogenic activity using a yeast-based hormone-dependent reporter assay and that “no physiologically significant estrogenic or androgenic activity was present in the Maca preparation used in the study.” The authors report that serum hormone levels of estradiol, FSH, LH, and SHBG did not change significantly.
+
+The GCS showed, however, that the maca treatment was associated with a significant reduction in psychological symptom scores (30% reduction from baseline values, P < 0.05, and 27% less than after placebo, P < 0.05). Results for the anxiety subscale (one of the GSC subgroups) show a significant reduction after maca treatment compared with baseline (30.8% reduction, P < 0.05) and after treatment with placebo (27.3% decrease, P < 0.05). On the depression subscale, a similar significant reduction in scores occurred after maca compared with either baseline or after placebo (28.9 % and 26.8%, respectively, both P < 0.05). The authors also observed a significant decrease in the sexual dsyfunction subscale of the GCS, where scores after maca intake were 22.9% and 34.6%, respectively, below those reported at baseline and after placebo (both P < 0.05). No significant changes were seen in the somatic or vasomotor subscale scores.
+
+The absence of hormonal effects fails to support the proposal that the action of maca is related to the phytoestrogenic activity of ß-sitosterol. These results, say the authors, are consistent with some studies and inconsistent with others. “Although the active ingredient remains uncertain, given the limited data available on Maca, it is likely that many variables are of importance,” such as the dose given, the type of commercial preparation used, the species or variety of Lepidium from which preparations are derived, and extract protocols and delivery mechanism. The authors discussed how the psychological symptoms may be reduced by maca, noting that flavonoids like kaempferol that inhibit monoamine oxidase may be responsible.
+
+To summarize, maca was effective in this study in reducing psychological symptoms associated with menopause, including anxiety, depression, and sexual dysfunction. However, it did not exert an estrogenic effect in these postmenopausal women, as indicated by the lack of change in plasma estradiol, FSH, LH, and SHBG concentrations. This is in contrast to a preparation of pre-gelatinized organic maca that had previously been shown to increase estradiol and decrease FSH levels while reducing symptoms of hot flashes and night sweats.(3,4)
