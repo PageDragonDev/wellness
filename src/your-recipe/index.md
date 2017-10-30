@@ -1,15 +1,15 @@
 ---
-title: Contact
+title: Your MMG Recipe
 layout_type: page
-banner: /images/anna-cabeca2.png
+banner: /images/anna-cabeca.png
 ---
 
 
 <iframe
-  id="JotFormIFrame-72975189284170"
+  id="JotFormIFrame-72974371384163"
   onload="window.parent.scrollTo(0,0)"
   allowtransparency="true"
-  src="https://form.jotform.com/72975189284170"
+  src="https://form.jotform.com/72974371384163"
   frameborder="0"
   style="width: 1px;
   min-width: 100%;
@@ -18,7 +18,7 @@ banner: /images/anna-cabeca2.png
   scrolling="no">
 </iframe>
 <script type="text/javascript">
-  var ifr = document.getElementById("JotFormIFrame-72975189284170");
+  var ifr = document.getElementById("JotFormIFrame-72974371384163");
   if(window.location.href && window.location.href.indexOf("?") > -1) {
     var get = window.location.href.substr(window.location.href.indexOf("?") + 1);
     if(ifr && get.length > 0) {

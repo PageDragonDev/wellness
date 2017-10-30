@@ -23,7 +23,7 @@
 				  <div class='post-info'>
 						  <h2><a class='title' href="/<%- post.path %>"><%= post.title || '(no title)' %></a></h2>
 						  <div class='date'>Date: <%- moment(post.date).format("MM/DD/YYYY") %></div>
-						  <% if(post.excerpt && post.excerpt != "") {%><div class="description"><%- post.excerpt %> <a class='title' href="/<%- post.path %>">Read More</a></div>
+						  <% if(post.excerpt && post.excerpt != "") {%><div class="description"><%- post.excerpt %> <br/> <a class='title' href="/<%- post.path %>">Read More</a></div>
 		
 						  <%}%>
 				  </div>

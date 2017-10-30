@@ -6,6 +6,14 @@ banner: /images/jj-virgin.png
 
 The most basic way is to mix 1-2 scoops of the Mighty Maca with water.  Many patients and staff however have found some inventive alternatives!  Blend with frozen peas or fruit to make a tasty healthy smoothie.  If you are currently on a cleansing diet mix in with your cleansing supplement.  When its cold outside mix with hot water to make a warming, soothing hot tea.  Here are a few more ideas...
 
+::: recipe
+
+<!--<img class="right-img" src="/images/mmgdrink.png">-->
+<a href="/your-recipe">Submit Your Favorite
+Mighty Maca Recipe to Our Site!</a>
+
+:::
+
 ::: split-callout
 
 ::: callout-left
@@ -115,6 +123,56 @@ First add the banana, fruit and skim milk.
 Then add packets of stevia and scoop of Mighty Maca. Blend and enjoy. This makes a large smoothie.
 
 (submitted by G. Bennett)
+
+:::
+
+::: callout-right
+
+## "Take Me Away"
+
+**Mighty Maca Chiller**
+
+* 1 can (or fresh) chilled pineapple chunks (in it's own juice)
+* 1 handful organic baby spinach (can add more to taste!)
+* 1 scoop Mighty Maca 
+* Splash of orange juice
+* 1 teaspoon of vanilla extract (non-alcohol)
+* 1 tablespoon freshly ground flax seed (optional -easily done in a small coffee grinder)
+* 1 teaspoon virgin coconut oil (optional)
+
+Place all ingredients in a high speed blender. Pour into a tall glass and enjoy, or make frozen pops that the kids will love!
+
+:::
+
+::: callout-left
+
+## "Apple Ginger Maca-tini"
+
+* 1 green apple (sliced)
+* 1 sliver of fresh ginger
+* 2 scoops Mighty Maca 
+* 10 - 12 oz filtered water
+* 4 ice cubes
+
+Place all ingredients in a high speed blender. Pour into date sugar- rimmed glasses, and toast your good health!
+
+:::
+
+::: callout-right
+
+## "Hung Over No More!"
+
+**Post-Party MMG Punch**
+
+* 1 cup orange-pineapple juice
+* 1 oz. POM (pomegranate) juice
+* 3 ice cubes
+* 2 scoops Mighty Maca 
+ 
+
+Place all ingredients in 12 oz. cup/glass
+
+Mix thoroughly.  Chug.  Get ready for tonight.
 
 :::
 

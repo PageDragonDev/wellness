@@ -9,6 +9,7 @@ var watch = require('metalsmith-watch');
 var serve = require('metalsmith-serve');
 var markdownBlocks = require('./plugins/markdown-blocks.js')
 var moment = require("moment");
+var excerpts = require('metalsmith-better-excerpts');
 
 Metalsmith(__dirname) 
 
@@ -26,6 +27,10 @@ Metalsmith(__dirname)
     }
 })) // use `collections.posts` in layouts
 .use(markdown())   // transpile all md into html
+.use(excerpts({
+    pruneLength: 200,
+    pruneString: '...'
+}))
 .use(markdownBlocks())
 .use(permalinks({           // change URLs to permalink URLs
     relative: false           // put css only in /css
