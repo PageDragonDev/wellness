@@ -1,0 +1,10 @@
+<div class="page news">
+    <div class="page-banner">
+        <img src="<%-banner%>">
+    </div>
+    <h1><%- title %></h1>
+    <%- contents %>
+    <div class="callout">
+        <%- include('_partial/featured_posts',{posts:news, start:0}) %>
+    </div>
+</div>

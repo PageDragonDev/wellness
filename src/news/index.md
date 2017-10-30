@@ -1,6 +1,6 @@
 ---
 title: News
-layout_type: page
+layout_type: news
 banner: /images/anna-cabeca.png
 ---
 
