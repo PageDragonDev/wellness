@@ -56,3 +56,17 @@ collections:
       # - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       
+  - name: "buy" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Buy" # Used in the UI, ie.: "New Post"
+    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    folder: "src/_buy"
+    create: true # Allow users to create new documents in this collection
+    delete: true
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
+      # - {label: "backto", name: "back_to", widget: "hidden", default: "/buy"}
+      - {label: "Title", name: "title", widget: "string"}
+      # - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
