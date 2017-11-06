@@ -20,10 +20,10 @@
 					  </div>
 
 				  <div class='post-info'>
-						  <h2><a class='title' href="/<%- post.path %>"><%= post.title || '(no title)' %></a></h2>
-						  <% if(post.excerpt && post.excerpt != "") {%><div class="description"><%- post.excerpt %> <br/> <a class='title' href="/<%- post.path %>">Read More</a></div>
-		
-						  <%}%>
+						  <h2><%= post.title || '(no title)' %></h2>
+						  <div class="desc">
+						  	<%- post.body %>
+						  </div>
 				  </div>
           </li>
         <% }) %>

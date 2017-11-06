@@ -5,9 +5,11 @@
     <div class="callout">
         <h1><%- title %></h1>
         <% if(typeof(date) != "undefined"){%>
-        <div class="date"><%- moment(date).format("MM/DD/YYYY") %></div>
+            <div class="date"><%- moment(date).format("MM/DD/YYYY") %></div>
         <%}%>
         <%- contents %>
-        <p><a href="<%- back_to %>">Back</a></p>
+        <% if(typeof(back_to) != "undefined"){%>
+            <p><a href="<%- back_to %>">Back</a></p>
+        <%}%>
     </div>
 </div>

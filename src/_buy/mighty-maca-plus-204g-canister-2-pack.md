@@ -5,4 +5,4 @@ code: MMG2-204G-2
 price: '129.90 '
 image: /images/mmg-plus-2can.jpg
 ---
-***FREE SHIPPING IN USA! • ONLY $56.47 per can!***
+***FREE SHIPPING IN USA! - ONLY $56.47 per can!***
