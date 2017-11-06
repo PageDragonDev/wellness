@@ -29,6 +29,11 @@ Metalsmith(__dirname)
         // date: 'date',
         // reverse: true,
         pattern: "**/_news/*.md"
+    },
+    buy: {
+        // date: 'date',
+        // reverse: true,
+        pattern: "**/_buy/*.md"
     }
 })) // use `collections.posts` in layouts
 .use(markdown())   // transpile all md into html
