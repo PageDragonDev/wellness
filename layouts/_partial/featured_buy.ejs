@@ -21,9 +21,20 @@
 
 				  <div class='post-info'>
 						  <h2><%= post.title || '(no title)' %></h2>
+						  Item: <%- post.code %>
+						  <br/>
+						  Price: $<%- post.price %>
 						  <div class="desc">
-						  	<%- post.body %>
+						  	<%- marked(post.description) %>
 						  </div>
+						  <form action="http://ww6.aitsafe.com/cf/add.cfm" method="post">
+								<input type="hidden" name="userid" value="88284888">
+								<input type="hidden" name="return" value="http://mightymacadirect.com/page/buy">
+								<input type="hidden" name="product" value="<%- post.code %> - <%- post.title %>">
+								<input type="hidden" name="price" value="<%- post.price %>">
+								<input type="hidden" name="scode" value="<%- post.code %>">
+								<input type="submit" value="Buy Now">
+							</form>
 				  </div>
           </li>
         <% }) %>

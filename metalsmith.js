@@ -10,6 +10,7 @@ var serve = require('metalsmith-serve');
 var markdownBlocks = require('./plugins/markdown-blocks.js')
 var moment = require("moment");
 var excerpts = require('metalsmith-better-excerpts');
+var marked = require('marked');
 
 Metalsmith(__dirname) 
 
@@ -17,7 +18,8 @@ Metalsmith(__dirname)
 .destination('./build') // destination directory
 .clean(true)    // clean destination before
 .metadata({
-    moment: moment
+    moment: moment,
+    marked: marked
 })
 .use(collections({
     raves: {
