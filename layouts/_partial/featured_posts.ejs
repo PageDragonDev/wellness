@@ -4,7 +4,7 @@
 		start = 0;
 	}
 
-	if(typeof(count) == 'undefined') {
+	if(typeof(count) == 'undefined' || count == null) {
 		count = posts.length;
 	}
 	var end = start + count;

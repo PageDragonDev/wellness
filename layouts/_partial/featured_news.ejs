@@ -4,11 +4,12 @@
 		start = 0;
 	}
 
-	if(typeof(count) == 'undefined') {
+	if(typeof(count) == 'undefined' || count == null) {
 		count = posts.length;
 	}
+	
 	var end = start + count;
-
+	posts = posts.sort('date', -1).slice(start,end);
 	%>
   <div class="recent-posts">
       <ul class="post-list">
