@@ -8,7 +8,7 @@ banner: /images/maca5.png
 
 ::: callout
 
-This is a single green algae that reproduces quickly with only carbon dioxide, water, sunlight, and a few minerals. It was researched in the 1940’s as a possible “**superfood**” to provide the necessary nutrition to a booming population. It was discovered that it is relatively difficult to cultivate and looses its nutritional value when processed. 
+This is a single green algae that reproduces quickly with only carbon dioxide, water, sunlight, and a few minerals. It was researched in the 1940's as a possible "**superfood**" to provide the necessary nutrition to a booming population. It was discovered that it is relatively difficult to cultivate and looses its nutritional value when processed. 
 
 Recently, however, interest in **chlorella** has grown, specifically for using it to **boost the immune system and detoxification.**
 

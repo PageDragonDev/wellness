@@ -9,36 +9,67 @@ body {
 
 .site-body {
     background-color: #ffffff;
-    border: 3px solid #000000;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    border: 1px solid #000000;
+    margin-top:0;
+    margin-bottom:0;
     box-shadow: 5px 5px 5px rgba(black, 0.5);
     padding: 0;
-    display: flex;
-    flex-direction: row;
     overflow-x: hidden;
+    
+    @media (min-width: 601px) {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    @media (min-width: 1026px) {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 3px solid #000000;
+    }
     
     a:hover {
         color: #ff00000;
     }
     
     .menu {
-        background-image: url('/images/ovalslice.png')
-        background-repeat: no-repeat;
         margin: 0;
-        padding-top: 180px;
-        text-align: right;
-        max-width: 195px;
-        flex-grow: 1;
         z-index: 10;
+        min-width: 186px;
+        overflow: hidden;
+        height: 35px;
+        background-color: #6bb20a;
+        color: #ffffff;
+        
+        @media (min-width: 601px) {
+            background-image: url('/images/ovalslice.png')
+            background-repeat: no-repeat;
+            padding-top: 180px;
+            text-align: right;
+            max-width: 195px;
+            flex-grow: 1;
+            overflow: show;
+            height: auto;
+            background-color: transparent;
+        }
+        
+        .menu-hover {
+            text-align:center;
+            padding: 1px;
+            background-color: #bdfd9c;
+            border-bottom: solid 1px #000000;
+            
+            @media (min-width: 601px) {
+                display:none;
+            }
+        }
         
         .list {
-            max-width: 85%;
-            margin: 0;
-            padding: 0;
-            
+            background-image: url('/images/maca_circle.png');
+            background-repeat: no-repeat;
+            background-position: 80% 50%;
+        
             a {
-                text-decoration: none;
+                    text-decoration: none;
                 color: #ffffff
                 font-size: 21px;
                 
@@ -50,16 +81,45 @@ body {
                 display: block;
                 
             }
+            
+            @media (min-width: 601px) {
+                background-image: none;
+                max-width: 85%;
+                margin: 0;
+                padding: 0;
+                
+                a {
+                    text-decoration: none;
+                    color: #ffffff
+                    font-size: 21px;
+                    
+                }
+                
+                li {
+                    list-style: none;
+                    padding-right: 20px;
+                    display: block;
+                    
+                }
+            }
         }
         
+        &:hover {
+            height: auto;
+        }
     }
     
     .content {
         background-image: url('/images/mightymaca.jpg')
         background-repeat: no-repeat;
+        background-size: 100%;
         flex-grow: 1;
         z-index: 0;
         max-width: 831px;
+        
+        @media (min-width: 1026px) {
+            background-size: auto;
+        }
         
         .footer {
             text-align: center;
@@ -68,9 +128,21 @@ body {
     }
     
 }
+
 .home {
-    //display: none;
-    padding-top: 191px;
+    padding-top: 80px;
+    
+    @media (min-width: 601px) {
+        height: 140px;
+    }
+    
+    @media (min-width: 800px) {
+        padding-top: 180px;
+    }
+    
+    @media (min-width: 990px) {
+        padding-top: 191px;
+    }
     
     li:nth-child(even) {color: #808080}
     li:nth-child(odd) {color: #008000}
@@ -81,15 +153,44 @@ body {
     
     .home-banner {
         position: relative;
-        height: 231px;
+        height: 105px;
         
+        @media (min-width: 601px) {
+            height: 185px;
+        }
+        
+        @media (min-width: 890px) {
+            height: 220px;
+        }
+        
+        @media (min-width: 1026px) {
+            height: 231px;
+        }
         
         img {
-            position: absolute;   
-            left: -42px;
-            min-width: 105%;
+            position: relative;   
+            
+            @media (min-width: 601px) {
+                position: absolute;   
+                left: -42px;
+                min-width: 115%;
+            }
+            
+            @media (min-width: 760px) {
+                min-width: 112%;
+            }
+            
+            @media (min-width: 890px) {
+                min-width: 108%;
+            }
+            
+            @media (min-width: 1026px) {
+                min-width: 105%;
+            }
+            
         }
     }
+    
     .features {
         text-align: center;
         margin-top: 15px;
@@ -111,9 +212,14 @@ body {
         }
         
         .featured {
-            flex: 1;
-            border-right: 2px solid #000000;
-            max-width: 205px;
+            flex-grow: 1;
+            flex-basis: 50%;
+            
+            @media (min-width: 1026px) {
+                flex-basis: 200px;
+                border-right: 2px solid #000000;
+            }
+            
             h2 {
                 font-size: 25px;
                 font-weight: normal;
@@ -126,8 +232,14 @@ body {
                 display: block;
                 margin-left: auto;
                 margin-right: auto;
-                padding-bottom: 80px;
-                height: 200px;
+                padding-bottom: 40px;
+                height: 120px;
+                
+                
+                @media (min-width: 1026px) {
+                    height: 200px;
+                    padding-bottom: 80px;
+                }
                 
             }
             
@@ -207,17 +319,68 @@ body {
 }
 
 .page {
-    padding-top: 191px;
+    padding-top: 100px;
+    
+    @media (min-width: 440px) {
+        padding-top: 140px;
+    }
+    
+    @media (min-width: 800px) {
+        padding-top: 180px;
+    }
+    
+    @media (min-width: 990px) {
+        padding-top: 191px;
+    }
     
     .page-banner {
         position: relative;
-        height: 231px;
+        height: 105px;
         
+        @media (min-width: 400px) {
+            height: 145px;
+        }
+        
+        @media (min-width: 500px) {
+            height: 165px;
+        }
+        
+        @media (min-width: 601px) {
+            height: 185px;
+        }
+        
+        @media (min-width: 620px) {
+            height: 165px;
+        }
+        
+        @media (min-width: 760px) {
+            height: 185px;
+        }
+        
+        @media (min-width: 890px) {
+            height: 231px;
+        }
+        
+        @media (min-width: 1026px) {
+            height: 231px;
+        }
         
         img {
             position: absolute;   
             left: -42px;
-            min-width: 105%;
+            min-width: 115%;
+            
+            @media (min-width: 760px) {
+                min-width: 112%;
+            }
+            
+            @media (min-width: 890px) {
+                min-width: 108%;
+            }
+            
+            @media (min-width: 1026px) {
+                min-width: 105%;
+            }
         }
     }
     
@@ -299,21 +462,23 @@ body {
             max-width: 50%;
         }
     }
-    
-    a {
-        font-size: 30px;
-    }
+
     
     .callout {
         margin-top: 15px;
         background-color: #f0efd5;
         border: 1px solid #080808;
-        margin-right: 30px;
+        margin-right: 15px;
+        margin-left: 15px;
         border-radius: 20px;
         padding: 15px;
         letter-spacing: -1px;
         line-height: -1px;
         
+        @media (min-width: 601px) {
+            margin-left: 0;
+            margin-right: 30px;
+        }
         
         h2 {
             font-weight: bold;

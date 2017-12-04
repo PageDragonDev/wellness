@@ -5,25 +5,26 @@ banner: /images/maca5.png
 ---
 
 ## Mighty Maca Plus Contains:
-<p class="small-p">(click on each for more info)</p>
-<img class="right-img" src="/images/ingredients.png">
-<li><a href="/ingredients/maca">Maca</a></li>
-<li><a href="/ingredients/spirulina">Spirulina</a></li>
-<li><a href="/ingredients/chlorella">Chlorella</a></li>
-<li><a href="/ingredients/mangosteen">Mangosteen</a></li>
-<li><a href="/ingredients/acerola">Acerola</a></li>
-<li><a href="/ingredients/bromelain">Bromelain</a></li>
-<li><a href="/ingredients/papain">Papain</a></li>
-<li><a href="/ingredients/amylase">Amylase</a></li>
-<li><a href="/ingredients/oat-bran">Oat Bran</a></li>
-<li><a href="/ingredients/milk-thistle">Milk Thistle</a></li>
-<li><a href="/ingredients/una-de-gato">Una de Gato</a></li>
-<li><a href="/ingredients/resveratrol">Resveratrol</a></li>
-<li><a href="/ingredients/quercetin">Quercetin</a></li>
-<li><a href="/ingredients/flaxseed">Flaxseed</a></li>
-<li><a href="/ingredients/turmeric">Turmeric</a></li>
-<li><a href="/ingredients/grape-seed-extract">Grape Seed Extract</a></li>
-<li><a href="/ingredients/green-tea-extract">Green Tea Extract</a></li>
-<li><a href="/ingredients/cinnamon">Cinnamon</a></li>
-<li><a href="/ingredients/licorice">Licorice</a></li>
-<li><a href="/ingredients/nlab">Nutrition Label and Bibliography</a></li>
+
+![](/images/ingredients.png)
+
+* [Maca](/ingredients/maca)
+* [Spirulina](/ingredients/spirulina)
+* [Chlorella](/ingredients/chlorella)
+* [Mangosteen](/ingredients/mangosteen)
+* [Acerola](/ingredients/acerola)
+* [Bromelain](/ingredients/bromelain)
+* [Papain](/ingredients/papain)
+* [Amylase](/ingredients/amylase)
+* [Oat Bran](/ingredients/oat-bran)
+* [Milk Thistle](/ingredients/milk-thistle)
+* [Una de Gato](/ingredients/una-de-gato)
+* [Resveratrol](/ingredients/resveratrol)
+* [Quercetin](/ingredients/quercetin)
+* [Flaxseed](/ingredients/flaxseed)
+* [Turmeric](/ingredients/turmeric)
+* [Grape Seed Extract](/ingredients/grape-seed-extract)
+* [Green Tea Extract](/ingredients/green-tea-extract)
+* [Cinnamon](/ingredients/cinnamon)
+* [Licorice](/ingredients/licorice)
+* [Nutrition Label and Bibliography](/ingredients/nlab)
