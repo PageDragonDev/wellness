@@ -2,7 +2,7 @@ let _ = require("lodash");
 let slug = require("slug");
 
 let categories = function(opts) {
-    opts = _.defaults(opts || {}, { path: "category/", layout_type: "category", list: "categories" });
+    opts = _.defaults(opts || {}, { path: "category/", layout_type: "category", list: "categories", posts: "posts" });
 
     return function(files, metalsmith, done) {
         let meta = metalsmith.metadata();
@@ -28,8 +28,9 @@ let categories = function(opts) {
             _.each(file[list], function(category) {
                 // build a path for where the file for this category is supposed to go
                 let key = opts.path + category + "/index.html";
-                memo[key] = _.defaults({}, memo[key], { category: category, posts: [], contents: "", title: catTitles[category] }, opts.yaml);
-                memo[key].posts = _.sortBy(memo[key].posts.concat(file), "date").reverse();
+                memo[key] = _.defaults({}, memo[key], { category: category, contents: "", title: catTitles[category] });
+                memo[key][opts.posts] = [];
+                memo[key][opts.posts] = _.sortBy(memo[key][opts.posts].concat(file), "date").reverse();
             });
             return memo;
         }, {});
