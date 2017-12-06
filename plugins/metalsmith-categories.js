@@ -38,12 +38,16 @@ let categories = function(opts) {
         _.extend(files, categories);
 
         // add a taglist array to the metadata, to be consumed by a tagcloud type page
-        meta.taglist = _.sortBy(_.reduce(categories, function(memo, tag) {
+        let taglist = _.sortBy(_.reduce(categories, function(memo, tag) {
             return memo.concat({ tag: tag.tag, count: tag.posts.length, posts: tag.posts });
         }, []), "count").reverse();
+        if(!meta.taglist) {
+            meta.taglist = [];
+        }
+        meta.taglist = [...meta.taglist,...taglist];
 
         // also add the same data but with tagnames as key, for use by individual tag pages
-        meta.categories = _.reduce(categories, function(memo, tag) {
+        meta[list] = _.reduce(categories, function(memo, tag) {
             memo[tag.tag] = { tag: tag.tag, count: tag.posts.length, posts: tag.posts };
             return memo;
         }, {});
