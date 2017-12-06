@@ -7,7 +7,6 @@ var permalinks  = require('metalsmith-permalinks');
 var msif = require('metalsmith-if');
 var watch = require('metalsmith-watch');
 var serve = require('metalsmith-serve');
-var markdownBlocks = require('./plugins/markdown-blocks.js')
 var moment = require("moment");
 var excerpts = require('metalsmith-better-excerpts');
 var marked = require('marked');
