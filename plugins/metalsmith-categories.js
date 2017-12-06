@@ -29,7 +29,7 @@ let categories = function(opts) {
                 // build a path for where the file for this category is supposed to go
                 let key = opts.path + category + "/index.html";
                 memo[key] = _.defaults({}, memo[key], { category: category, contents: "", title: catTitles[category] });
-                memo[key][opts.posts] = [];
+                if(!memo[key][opts.posts]) { memo[key][opts.posts] = []; }
                 memo[key][opts.posts] = _.sortBy(memo[key][opts.posts].concat(file), "date").reverse();
             });
             return memo;
