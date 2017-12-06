@@ -2,7 +2,7 @@ let _ = require("lodash");
 let slug = require("slug");
 
 let categories = function(opts) {
-    opts = _.defaults(opts || {}, { path: "category/", yaml: { template: "category.ejs" }, layout_type: "category", list: "categories" });
+    opts = _.defaults(opts || {}, { path: "category/", layout_type: "category", list: "categories" });
 
     return function(files, metalsmith, done) {
         let meta = metalsmith.metadata();

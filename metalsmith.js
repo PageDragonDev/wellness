@@ -41,7 +41,7 @@ Metalsmith(__dirname)
 })) // use `collections.posts` in layouts
 .use(markdown())   // transpile all md into html
 .use(categories({path:"category/"}))
-.use(categories({path:"service/", list:"services"}))
+.use(categories({path:"service/", list:"services", layout_type:"service"}))
 .use(permalinks({           // change URLs to permalink URLs
     relative: false           // put css only in /css
   }))
