@@ -1,6 +1,6 @@
 ---
 title: The Indians
-sub-regions: St. Simons
-catagories:
+sub_regions: St. Simons
+categories:
   - History & Lore
 ---

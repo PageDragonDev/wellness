@@ -11,6 +11,7 @@ var markdownBlocks = require('./plugins/markdown-blocks.js')
 var moment = require("moment");
 var excerpts = require('metalsmith-better-excerpts');
 var marked = require('marked');
+var categories = require('./plugins/metalsmith-categories.js');
 
 Metalsmith(__dirname) 
 
@@ -39,11 +40,8 @@ Metalsmith(__dirname)
     }
 })) // use `collections.posts` in layouts
 .use(markdown())   // transpile all md into html
-.use(excerpts({
-    pruneLength: 200,
-    pruneString: '...'
-}))
-.use(markdownBlocks())
+.use(categories({path:"category/"}))
+.use(categories({path:"service/", list:"services"}))
 .use(permalinks({           // change URLs to permalink URLs
     relative: false           // put css only in /css
   }))
