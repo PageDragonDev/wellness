@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: PageDragonDev/mmg # Path to your Github repository
+  repo: PageDragonDev/regional-directory # Path to your Github repository
   branch: master # Branch to update
 media_folder: src/images
 public_folder: /images
@@ -26,49 +26,3 @@ collections:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Icon", name: "icon", widget: "string", required: false}
           - {label: "Text", name: "text", widget: "markdown", required: false}
-
-          
-  - name: "raves" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Raves" # Used in the UI, ie.: "New Post"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-    folder: "src/_raves"
-    create: true # Allow users to create new documents in this collection
-    delete: true
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
-      - {label: "backto", name: "back_to", widget: "hidden", default: "/raves"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      #   - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      
-  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "News" # Used in the UI, ie.: "New Post"
-    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-    folder: "src/_news"
-    create: true # Allow users to create new documents in this collection
-    delete: true
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
-      - {label: "backto", name: "back_to", widget: "hidden", default: "/news"}
-      - {label: "Title", name: "title", widget: "string"}
-      # - {label: "Publish Date", name: "date", widget: "datetime"}
-      # - {label: "Featured Image (Recommended: 1200w x 600h)", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      
-  - name: "buy" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Buy" # Used in the UI, ie.: "New Post"
-    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-    folder: "src/_buy"
-    create: true # Allow users to create new documents in this collection
-    delete: true
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
-      # - {label: "backto", name: "back_to", widget: "hidden", default: "/buy"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Product Code", name: "code", widget: "string"}
-      - {label: "Product Price", name: "price", widget: "string"}
-      # - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Description", name: "description", widget: "markdown"}
-      

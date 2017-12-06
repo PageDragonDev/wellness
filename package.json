@@ -1,7 +1,7 @@
 {
-  "name": "mmg",
+  "name": "Regional Directory",
   "version": "1.0.0",
-  "description": "Mighty Maca Greens",
+  "description": "Regional Directory",
   "scripts": {
     "build": "node metalsmith.js"
   },

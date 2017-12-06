@@ -1,0 +1,33 @@
+body {
+  background-image: url("/images/background.png");
+  font-family: 'Montserrat', sans-serif;
+  background-color: #c0c0c0;
+}
+.container {
+  max-width: 1017px;
+}
+.site-body {
+  background-color: #fff;
+  box-shadow: 5px 5px 5px 0px;
+}
+.site-body .menu {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.site-body .menu .logo {
+  width: 40%;
+}
+.site-body .menu .list {
+  float: right;
+  text-align: center;
+}
+.site-body .menu .list a {
+  text-decoration: none;
+}
+.site-body .menu .list li {
+  list-style: none;
+}
+.site-body .footer {
+  text-align: center;
+}

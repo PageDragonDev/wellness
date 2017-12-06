@@ -1,11 +1,9 @@
 <html>
 
 <head>
-    <title>Mighty Maca Greens</title>
+    <title>Regional Directory</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://gitcdn.link/repo/Chalarangelo/mini.css/master/dist/mini-default.min.css">
     <link href="/css/style.css" media="all" rel="stylesheet" type="text/css" />
     
 </head>
@@ -13,30 +11,20 @@
 <body>
     <div class="site-body container">
         <div class="menu">
-            <div class="menu-hover"><img src="/images/maca_menu.png"/></div>
-            <ul class="list">
-                <li><a href="/"/>Welcome</a></li>
-                <li><a href="/mm411"/>Mighty Maca 411</a></li>
-                <li><a href="/faq"/>FAQs</a></li>
-                <li><a href="/top-10"/>Top 10</a></li>
-                <li><a href="/ingredients"/>Ingredients</a></li>
-                <li><a href="/buy"/>Buy</a></li>
-                <li><a href="/benefits"/>Benefits</a></li>
-                <li><a href="/athletes"/>Athelets</a></li>
-                <li><a href="/raves"/>Raves</a></li>
-                <li><a href="/recipes"/>Recipes</a></li>
-                <li><a href="/news"/>News</a></li>
-                <li><a href="/contact"/>Contact</a></li>
+            <img class="logo" src="/images/logo2.png">
+            <ul class="sub-region-menu">
+                <li><a href="/"/>Home</a></li>
+                <li><a href="/pluto"/>Pluto</a></li>
+                <li><a href="/neptune"/>Neptune</a></li>
             </ul>
         </div>
         <div class="content">
             <% if(typeof(layout_type) != "undefined" && layout_type) {%>
             <%- include(layout_type) %>
             <% } %>
-            <div class="footer">
-                <p>Mighty Maca/The OCO&reg; Company &copy; 2017 &#8226; Saint Simons Island, GA (USA) &#8226; info@mightymacadirect.com</p>
-                <p><a href="https://theoco.ecwid.com/#!/~/pages/page=shipping-payment">Shipping & Payment Info</a> &#8226; <a href="https://theoco.ecwid.com/#!/~/pages/page=returns"> Return Policy </a> &#8226; <a href="https://theoco.ecwid.com/#!/~/pages/page=terms"> Terms & Conditions </a> &#8226; <a href="https://theoco.ecwid.com/#!/~/pages/page=privacy-policy"> Privacy Policy </a></p>
-            </div>
+            <!--<div class="footer">-->
+            <!--    <p>Pagedragon, Regional Directory</p>-->
+            <!--</div>-->
         </div>
         
     </div>
