@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: PageDragonDev/regional-directory # Path to your Github repository
+  repo: PageDragonDev/placeholder # Path to your Github repository
   branch: master # Branch to update
 media_folder: src/images
 public_folder: /images

@@ -1,7 +1,7 @@
 {
-  "name": "regional-directory",
+  "name": "metalsmith-template",
   "version": "1.0.0",
-  "description": "Regional Directory",
+  "description": "",
   "scripts": {
     "build": "node metalsmith.js"
   },

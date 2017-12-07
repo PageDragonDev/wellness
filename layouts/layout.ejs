@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Regional Directory - <%-title%></title>
+    <title>Metalsmith Template - <%-title%></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
     <link href="/css/style.css" media="all" rel="stylesheet" type="text/css" />
@@ -11,7 +11,7 @@
 <body>
     <div class="site-body container">
         <div class="menu">
-            <img class="logo" src="/images/logo2.png">
+            <img class="logo" src="/images/">
             <ul class="sub-region-menu">
                 <li><a href="/"/>Home</a></li>
                 <li><a href="/pluto"/>Pluto</a></li>
@@ -22,9 +22,6 @@
             <% if(typeof(layout_type) != "undefined" && layout_type) {%>
             <%- include(layout_type) %>
             <% } %>
-            <!--<div class="footer">-->
-            <!--    <p>Pagedragon, Regional Directory</p>-->
-            <!--</div>-->
         </div>
         
     </div>
