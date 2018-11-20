@@ -1,6 +1,111 @@
 <div class="home">
     <div class="home-banner">
-        <img src="/images/">
+        <img src="/images/<%- banner %>">
     </div>
-    <%- contents %>
+
+
+    <div class="container main">
+        <%- contents %>
+    </div>
+
+    <div class="callout-band">
+        <div class="callout-area container">
+            <div class="left">
+                <img src="/images/home-left.jpg" alt="Clear sking/face.">
+            </div>
+            <div class="info">
+                <% if (typeof(top_callout) !== 'undefined') { %>
+                    <%- marked(top_callout) %>
+                <% } %>
+            </div>
+            <div class="right">
+                <img src="/images/home-right.jpg" alt="Clear sking/face.">
+            </div>
+        </div>
+    </div>
+
+    <div class="specialties-area container">
+        <div class="specialty">
+            <img src="/images/<%- specialty1_icon %>" alt="Specialty"/>
+            <%- marked(specialty1_text) %>
+        </div>
+        <div class="specialty">
+            <img src="/images/<%- specialty2_icon %>" alt="Specialty"/>
+            <%- marked(specialty2_text) %>
+        </div>
+        <div class="specialty">
+            <img src="/images/<%- specialty1_icon %>" alt="Specialty"/>
+            <%- marked(specialty3_text) %>
+        </div>
+        <div class="specialty">
+            <img src="/images/<%- specialty4_icon %>" alt="Specialty"/>
+            <%- marked(specialty4_text) %>
+        </div>
+    </div>
+
+    <div class="newsletter-band">
+        <div class="newsletter-area container">
+            <div class="icon-area"><img src="/images/our-newsletter.png" alt="Our Newsletter"></div>
+            <div class="newsletter"></div>
+        </div>
+    </div>
+
+    <div class="schedule-area container">
+        <%- schedule_form %>
+    </div>
+
+    <div class="green-band">
+        <div class="green-area container">
+            <%- marked(green_text) %>
+            <div class="green-callouts">
+                <% if(typeof(green_callout1) !== 'undefined') { %>
+                    <div class="callout">
+                        <%- marked(green_callout1) %>
+                    </div>
+                <% } %>
+                <% if(typeof(green_callout2) !== 'undefined') { %>
+                    <div class="callout">
+                        <%- marked(green_callout2) %>
+                    </div>
+                <% } %>
+                <% if(typeof(green_callout3) !== 'undefined') { %>
+                    <div class="callout">
+                        <%- marked(green_callout3) %>
+                    </div>
+                <% } %>
+            </div>
+        </div>
+    </div>
+
+    <div class="saying-band">
+        <div class="saying-area container">
+            <div class="saying-title">
+                <h3>What You're Saying</h3>
+            </div>
+            <div class="saying-icon">
+                <img src="/images/<%- saying_icon %>" alt="What You're Saying">
+            </div>
+            <div class="saying-text">
+                <%- marked(saying_text) %>
+            </div>
+        </div>
+    </div>
+
+    <div class="contact-band">
+        <div class="contact-area container">
+            <div class="contact">
+                <i class="fas fa-envelope"></i><br/>
+                Mail
+            </div>
+            <div class="contact">
+                <i class="fas fa-map-marker-alt"></i><br/>
+                Map
+            </div>
+            <div class="contact">
+                <i class="fas fa-phone"></i><br/>
+                Phone
+            </div>
+        </div>
+    </div>
+
 </div>
