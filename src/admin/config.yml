@@ -54,8 +54,8 @@ collections:
           - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: "site" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Site Pages" # Used in the UI, ie.: "New Post"
+  - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Services" # Used in the UI, ie.: "New Post"
     folder: "src/services"
     fields:
       - {label: "Title", name: "title", widget: "string"}
