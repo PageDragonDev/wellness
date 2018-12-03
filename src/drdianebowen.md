@@ -2,6 +2,8 @@
 title: Dr. Diane Bowen
 layout_type: bio
 ---
+![](/images/drbowen-standing.jpg)
+
 Dr. Diane Bowen received her Bachelor of Arts from Emory University in Atlanta in 1983 and her medical degree from Medical College of Georgia in 1987.
 
 She completed her general surgery training at Memorial Medical Center in Savannah, where she was Chief Surgical Resident and Chief Resident for the resident staff.
