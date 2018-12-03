@@ -1,7 +1,9 @@
 ---
-title: Home page
+title: Home
 layout_type: home
 banner: home-header.jpg
+header_tag: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
+  eu tempus eros sagittis sed.'
 top_callout: '### Face, Breast, Body, Skin
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.

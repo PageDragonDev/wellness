@@ -5,8 +5,8 @@
   "scripts": {
     "start": "node metalsmith.js"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "ejs": "^2.6.1",
     "eslint": "^5.9.0",
     "eslint-config-airbnb": "^17.1.0",

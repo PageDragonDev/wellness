@@ -13,7 +13,7 @@ const moment = require('moment');
 const excerpts = require('metalsmith-better-excerpts');
 const marked = require('marked');
 const data = require('metalsmith-data');
-const categories = require('./plugins/metalsmith-categories.js');
+const _ = require('lodash');
 console.log('ENV:',process.env.ENV);
 
 Metalsmith(__dirname)
@@ -23,12 +23,17 @@ Metalsmith(__dirname)
     .metadata({
         moment,
         marked,
+        _:_,
     })
     .use(data({}))
-    .use(collections({})) // use `collections.posts` in layouts
+    .use(collections({
+        services: {
+            date: 'date',
+            reverse: true,
+            pattern: "**/services/*.md"
+        }
+    })) // use `collections.posts` in layouts
     .use(markdown()) // transpile all md into html
-    .use(categories({ path: 'category/' }))
-    .use(categories({ path: 'service/', list: 'services', layout_type: 'service' }))
     .use(permalinks({ // change URLs to permalink URLs
         relative: false, // put css only in /css
     }))
