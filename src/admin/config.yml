@@ -14,6 +14,7 @@ collections:
         file: "src/index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "About Us"
@@ -21,6 +22,7 @@ collections:
         file: "src/about-us.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact Us"
@@ -28,12 +30,14 @@ collections:
         file: "src/contact.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Services"
         name: "services"
         file: "src/services.md"
         fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
-        - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
+          - {label: "Body", name: "body", widget: "markdown"}
