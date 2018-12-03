@@ -12,9 +12,10 @@ collections:
       - label: "Home"
         name: "home"
         file: "src/index.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Header Text", name: "header_tag", widget: "string"}
           - {label: "Top Callout", name: "top_callout", widget: "markdown"}
           - {label: "Specialty 1", name: "specialty1_text", widget: "markdown"}
@@ -33,41 +34,46 @@ collections:
       - label: "About Us"
         name: "about-us"
         file: "src/about-us.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Contact Us"
         name: "contact"
         file: "src/contact.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Services"
         name: "services"
         file: "src/services.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Dr. Green"
         name: "drgreen"
         file: "src/drjamesgreen.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Dr. Bowen"
         name: "drbowen"
         file: "src/drdianebowen.md"
+        delete: false
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "image", required: false}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "services" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -75,7 +81,7 @@ collections:
     folder: "src/services"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Banner", name: "banner", widget: "image"}
+      - {label: "Banner", name: "banner", widget: "image", required: false}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "service"}
       - {label: "Summary", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
