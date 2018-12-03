@@ -15,6 +15,19 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Header Text", name: "header_tag", widget: "string"}
+          - {label: "Top Callout", name: "top_callout", widget: "markdown"}
+          - {label: "Specialty 1", name: "specialty1_text", widget: "markdown"}
+          - {label: "Specialty 2", name: "specialty2_text", widget: "markdown"}
+          - {label: "Specialty 3", name: "specialty3_text", widget: "markdown"}
+          - {label: "Specialty 4", name: "specialty4_text", widget: "markdown"}
+          - {label: "Schedule Form", name: "schedule_form", widget: "string"}
+          - {label: "Green Text", name: "green_text", widget: "markdown"}
+          - {label: "Green Callout 1", name: "green_callout1", widget: "markdown"}
+          - {label: "Green Callout 2", name: "green_callout2", widget: "markdown"}
+          - {label: "Green Callout 3", name: "green_callout3", widget: "markdown"}
+          - {label: "Just Saying Image", name: "saying_icon", widget: "image"}
+          - {label: "Just Saying Text", name: "saying_text", widget: "markdown"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "About Us"
