@@ -7,7 +7,7 @@ public_folder: /images
 
 collections:
   - name: "site" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Site Page" # Used in the UI, ie.: "New Post"
+    label: "Site Pages" # Used in the UI, ie.: "New Post"
     files:
       - label: "Home"
         name: "home"
@@ -19,6 +19,13 @@ collections:
       - label: "About Us"
         name: "about-us"
         file: "src/about-us.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Contact Us"
+        name: "contact"
+        file: "src/contact.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
