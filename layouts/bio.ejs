@@ -1,0 +1,56 @@
+<div class="bio">
+    <div class="header"></div>
+    <div class="container">
+        <h1 class="page-title"><%- title%></h1>
+        <div class="main">
+            <div class="left">
+                <% if (typeof(banner) !== 'undefined') {%>
+                <div class="page-banner">
+                    <img src="<%- typeof(banner) !== 'undefined' && banner !== null?banner:'/images/home-header.jpg' %>"/>
+                </div>
+                <% } %>
+                <div class="content">
+                    <%- contents %>
+                </div>
+            </div>
+            <div class="right">
+                <h2>Services</h2>
+                <div class="Services">
+                    <%
+                        // UNIQUE LIST OF CATEGORIES
+
+                        let cats = [];
+                        services.forEach(page => {
+                            if (page.categories) {
+                                const pageCats = page.categories.split(',');
+                                pageCats.forEach(c => {cats.push(c)});
+                            }
+                        });
+                        cats = _.uniq(cats).sort();
+
+                        // RENDER CATEGORIES
+                        %> <ul class="categories-list"> <%
+                            cats.forEach(cat => { %>
+                                <li class="category">
+                                    <div class="category-name"><%- cat %></div>
+                                    <ul class="services-list">
+                                        <% services.forEach(page => {
+                                            if (page.categories) {
+                                                const pageCats = page.categories.split(',');
+                                                if (pageCats.indexOf(cat) >= 0) {
+                                                    %>
+                                                    <li class="service"><a href="/<%- page.path %>"><%- page.title %></a></li>
+                                                    <%
+                                                };
+                                            }
+                                        })%>
+                                    </ul>
+                                </li>
+                        <% }); %>
+                    %>  </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

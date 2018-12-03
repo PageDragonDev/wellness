@@ -1,6 +1,6 @@
 ---
 title: Dr. James Green
-layout_type: page
+layout_type: bio
 ---
 ## My Philosophy and Approach to Wellness
 
