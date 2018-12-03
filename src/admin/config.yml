@@ -1,28 +1,15 @@
 backend:
-  name: github
-  repo: PageDragonDev/placeholder # Path to your Github repository
-  branch: master # Branch to update
+  name: git-gateway
 media_folder: src/images
 public_folder: /images
 
 collections:
-  - name: "about-us" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "About Us" # Used in the UI, ie.: "New Post"
+  - name: "site" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Site" # Used in the UI, ie.: "New Post"
     slug: "{{title}}"
-    folder: "src/about-us"
-    create: true # Allow users to create new documents in this collection
+    folder: "src"
+    create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle 1", name: "subtitle1", widget: "string", required: false}
-      - {label: "Subtitle 2", name: "subtitle2", widget: "string", required: false}
-      - {label: "Sequence", name: "sequence", widget: "number"}
-      - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"} 
+      - {label: "Layout", name: "layout_type", widget: "hidden", default: "page"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - name: list_items
-        label: Items
-        required: false
-        widget: list
-        fields:
-          - {label: "Name", name: "name", widget: "string"}
-          - {label: "Icon", name: "icon", widget: "string", required: false}
-          - {label: "Text", name: "text", widget: "markdown", required: false}
