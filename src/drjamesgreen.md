@@ -4,6 +4,8 @@ layout_type: page
 ---
 ## My Philosophy and Approach to Wellness
 
+![](/images/DrJamesWGreeneMDFAAFP_4015_162.png)
+
 A family physician’s knowledge, experience, insight and technical ability all come together when evaluating and treating patients. My goal is to help all of my patients achieve their optimal health through wellness and prevention. I believe the key is forming highly personalized partnerships by sincerely caring, listening, educating and advocating for my patients. My family medicine practice allows me to share my passion for prevention, men’s and women’s health issues, cardiovascular disease, diabetes, hypertension, obesity, thyroid disease and gastrointestinal health.
 
 I am currently the only primary care physician in the Golden Isles community area of Georgia offering this type of personalized healthcare, similar to a concierge healthcare. My office is nestled near the Georgia coast on the mainland city of Brunswick, situated midway between Savannah, Georgia and Jacksonville, Florida. My practice also serves the areas of Jekyll Island, Saint Simons Island, Sea Island and Little Saint Simons Island.
