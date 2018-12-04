@@ -81,8 +81,8 @@ collections:
     folder: "src/services"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
       - {label: "Banner", name: "banner", widget: "image", required: false}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "service"}
-      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
       - {label: "Summary", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
