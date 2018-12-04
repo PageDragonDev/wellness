@@ -4,9 +4,11 @@
         <h1 class="page-title"><%- title%></h1>
         <div class="main">
             <div class="left">
+                <% if (typeof(banner) !== 'undefined' && banner !== null) {%>
                 <div class="page-banner">
                     <img src="<%- typeof(banner) !== 'undefined' && banner !== null?banner:'/images/home-header.jpg' %>"/>
                 </div>
+                <% } %>
                 <div class="content">
                     <%- contents %>
                 </div>
