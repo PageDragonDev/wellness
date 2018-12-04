@@ -1,8 +1,11 @@
 ---
 title: Skin Care
-categories: Skin
-description: 'Our certified staff will evaluate your skin and educate you on how to properly take care of your skin to optimize your skin’s appearance – further treatments may include mild chemical peels and microdermabrasion.'
 layout_type: service
+categories: Health & Wellness
+description: >-
+  Our certified staff will evaluate your skin and educate you on how to properly
+  take care of your skin to optimize your skin’s appearance – further treatments
+  may include mild chemical peels and microdermabrasion.
 ---
 
 ## Microdermabrasion
