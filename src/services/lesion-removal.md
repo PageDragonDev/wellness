@@ -1,8 +1,9 @@
 ---
 title: Lesion Removal
-categories: Body
-description: 'Treatment and removal of skin cancers, moles and birth marks.'
+categories:
+  - Body
 layout_type: service
+description: 'Treatment and removal of skin cancers, moles and birth marks.'
 ---
 Depending on the size, type and location of the lesion, there are many ways to remove skin cancer and reconstruct your appearance if necessary.
 
