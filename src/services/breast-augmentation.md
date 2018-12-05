@@ -1,8 +1,9 @@
 ---
 title: Breast Augmentation
-categories: Breast
-description: 'Breast Enlargement And Breast Lift Surgery'
+categories:
+  - Breast
 layout_type: service
+description: Breast Enlargement And Breast Lift Surgery
 ---
 Breast augmentation surgery includes breast enlargement, breast enhancement and breast lift procedures. Breast Augmentation involves using breast implants or fat (referred to as fat transfer breast augmentation), to increase the size of your breasts. Many women want breast surgery or a breast lift after pregnancy or significant weight loss to restore the volume and shape of their breasts. If you have had breast cancer and part or all of your breast is missing or you are unbalanced after radiation, then insurance will cover your breast surgery to balance shape and size. Breast reconstruction surgery using implants can also be performed after a mastectomy or injury.
 
