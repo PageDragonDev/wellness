@@ -1,7 +1,8 @@
 ---
 title: Skin Care
+categories:
+  - Medical Spa
 layout_type: service
-categories: Health & Wellness
 description: >-
   Our certified staff will evaluate your skin and educate you on how to properly
   take care of your skin to optimize your skin’s appearance – further treatments
