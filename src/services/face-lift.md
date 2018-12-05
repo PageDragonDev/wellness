@@ -1,9 +1,12 @@
 ---
 title: Face Lift
-categories: Face
-description: 'Rejuvenation surgery for the face tightening neck and laugh lines. Limited incision approach used in some situations. Not covered by
-  insurance. Requires 4-6 weeks for recovery.'
+categories:
+  - Face
 layout_type: service
+description: >-
+  Rejuvenation surgery for the face tightening neck and laugh lines. Limited
+  incision approach used in some situations. Not covered by insurance. Requires
+  4-6 weeks for recovery.
 ---
 A facelift, or rhytidectomy, is a surgical procedure that improves visible signs of aging in the face and neck, such as:
 
