@@ -14,6 +14,9 @@ const excerpts = require('metalsmith-better-excerpts');
 const marked = require('marked');
 const data = require('metalsmith-data');
 const _ = require('lodash');
+const async = require('async');
+const fetch = require('node-fetch');
+
 console.log('ENV:',process.env.ENV);
 
 Metalsmith(__dirname)
@@ -24,6 +27,8 @@ Metalsmith(__dirname)
         moment,
         marked,
         _:_,
+        async: async,
+        fetch: fetch,
     })
     .use(data({}))
     .use(collections({
@@ -31,6 +36,11 @@ Metalsmith(__dirname)
             date: 'date',
             reverse: true,
             pattern: "**/services/*.md"
+        },
+        videos: {
+            date: 'date',
+            reverse: true,
+            pattern: "**/videos/*.md"
         }
     })) // use `collections.posts` in layouts
     .use(markdown()) // transpile all md into html

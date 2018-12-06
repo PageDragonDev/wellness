@@ -1,0 +1,60 @@
+<script>
+const vlist = [
+    <% videos.forEach(v => { %>
+        '<%- v.video %>',
+    <% }); %>
+    %> ];
+
+    function fetchVideoInfo(list) {
+        // EXAMPLE CALL: "https://www.googleapis.com/youtube/v3/videos?key=AIzaSyAVfN9X5e5CNE-s12canumOxB7Xb2iG_S0&part=snippet&id=T0Jqdjbed40"
+        list.forEach(vid => {
+        fetch('https://www.googleapis.com/youtube/v3/videos?key=AIzaSyAVfN9X5e5CNE-s12canumOxB7Xb2iG_S0&part=snippet&id=' + vid)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(json) {
+              console.log(json.items[0].snippet.thumbnails.standard.url)
+              $('#thumb' + vid).attr('src',json.items[0].snippet.thumbnails.standard.url)
+          });
+      });
+    }
+
+    fetchVideoInfo(vlist);
+
+</script>
+
+<div class="videos">
+    <div class="header"></div>
+    <div class="container">
+        <h1 class="page-title"><%- title%></h1>
+        <div class="main">
+            <div class="left">
+                <div class="page-banner">
+                    <img src="<%- typeof(banner) !== 'undefined'?banner:'/images/home-header.jpg' %>"/>
+                </div>
+                <div class="content">
+                    <%- contents %>
+                </div>
+                <div class="videos-list">
+                    <%
+                    const sortedVideos = _.sortBy(videos,["title"]);
+                    sortedVideos.forEach((video, idx) => { %>
+                        <div class="video">
+                            <div class="thumbnail">
+                                <img id="thumb<%- video.video%>" src="/images/video.jpg" alt="<%- video.title%>"/>
+                            </div>
+                            <h2><%- video.title%></h2>
+                            <div class="description">
+                                <%- marked(video.description) %>
+                            </div>
+                        </div>
+                    <% }) %>
+                </div>
+            </div>
+            <div class="right">
+                <%- include('partials/service_list') %>
+            </div>
+        </div>
+
+    </div>
+</div>

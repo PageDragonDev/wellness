@@ -1,3 +1,30 @@
+<script>
+const vlist = [
+    <%
+        let leadVideos = videos.filter(v => v.lead);
+        leadVideos.forEach(v => { %>
+            '<%- v.video %>',
+        <% }); %>
+    %> ];
+
+    function fetchVideoInfo(list) {
+        // EXAMPLE CALL: "https://www.googleapis.com/youtube/v3/videos?key=AIzaSyAVfN9X5e5CNE-s12canumOxB7Xb2iG_S0&part=snippet&id=T0Jqdjbed40"
+        list.forEach(vid => {
+        fetch('https://www.googleapis.com/youtube/v3/videos?key=AIzaSyAVfN9X5e5CNE-s12canumOxB7Xb2iG_S0&part=snippet&id=' + vid)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(json) {
+              console.log(json.items[0].snippet.thumbnails.standard.url)
+              $('#thumb' + vid).attr('src',json.items[0].snippet.thumbnails.standard.url)
+          });
+      });
+    }
+
+    fetchVideoInfo(vlist);
+
+</script>
+
 <div class="home">
     <div class="home-banner">
         <img src="/images/<%- banner %>"/>
@@ -63,22 +90,20 @@
     <div class="green-band">
         <div class="green-area container">
             <%- marked(green_text) %>
-            <div class="green-callouts">
-                <% if(typeof(green_callout1) !== 'undefined') { %>
-                    <div class="callout">
-                        <%- marked(green_callout1) %>
+            <div class="green-callouts videos-list">
+                <%
+                const sortedVideos = _.sortBy(leadVideos,["title"]);
+                sortedVideos.forEach((video, idx) => { %>
+                    <div class="video callout">
+                        <div class="thumbnail">
+                            <img id="thumb<%- video.video%>" src="/images/video.jpg" alt="<%- video.title%>"/>
+                        </div>
+                        <h2><%- video.title%></h2>
+                        <div class="description">
+                            <%- marked(video.description) %>
+                        </div>
                     </div>
-                <% } %>
-                <% if(typeof(green_callout2) !== 'undefined') { %>
-                    <div class="callout">
-                        <%- marked(green_callout2) %>
-                    </div>
-                <% } %>
-                <% if(typeof(green_callout3) !== 'undefined') { %>
-                    <div class="callout">
-                        <%- marked(green_callout3) %>
-                    </div>
-                <% } %>
+                <% }) %>
             </div>
         </div>
     </div>

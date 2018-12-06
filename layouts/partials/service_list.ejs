@@ -1,0 +1,35 @@
+<h2>Services</h2>
+<div class="Services">
+    <%
+        // UNIQUE LIST OF CATEGORIES
+
+        let cats = [];
+        services.forEach(page => {
+            if (page.categories) {
+                const pageCats = page.categories;
+                pageCats.forEach(c => {cats.push(c)});
+            }
+        });
+        cats = _.uniq(cats).sort();
+
+        // RENDER CATEGORIES
+        %> <ul class="categories-list"> <%
+            cats.forEach(cat => { %>
+                <li class="category">
+                    <div class="category-name"><%- cat %></div>
+                    <ul class="services-list">
+                        <% services.forEach(page => {
+                            if (page.categories) {
+                                const pageCats = page.categories;
+                                if (pageCats.indexOf(cat) >= 0) {
+                                    %>
+                                    <li class="service"><a href="/<%- page.path %>"><%- page.title %></a></li>
+                                    <%
+                                };
+                            }
+                        })%>
+                    </ul>
+                </li>
+        <% }); %>
+    %>  </ul>
+</div>

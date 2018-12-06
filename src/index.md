@@ -34,9 +34,6 @@ schedule_form: Form goes here. Yada yada.
 green_text: '### Latest Videos
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi.'
-green_callout1: Video Here
-green_callout2: Video Here
-green_callout3: Video Here
 saying_icon: saying.png
 saying_text: '### Rose
 
