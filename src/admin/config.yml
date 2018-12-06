@@ -89,7 +89,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
-      - {label: "Video ID", name: "video", widget: "image", required: true}
+      - {label: "Video ID", name: "video", widget: "string", required: true}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "video"}
       - {label: "Summary", name: "description", widget: "string"}
       - {label: "Show On Home Page", name: "lead", widget: "boolean", default: false}
