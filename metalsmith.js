@@ -41,7 +41,12 @@ Metalsmith(__dirname)
             date: 'date',
             reverse: true,
             pattern: "**/videos/*.md"
-        }
+        },
+        posts: {
+            date: 'date',
+            reverse: true,
+            pattern: "**/posts/*.md"
+        },
     })) // use `collections.posts` in layouts
     .use(markdown()) // transpile all md into html
     .use(permalinks({ // change URLs to permalink URLs

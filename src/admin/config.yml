@@ -94,3 +94,15 @@ collections:
       - {label: "Summary", name: "description", widget: "string"}
       - {label: "Show On Home Page", name: "lead", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Posts" # Used in the UI, ie.: "New Post"
+    folder: "src/posts"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
+      - {label: "Banner", name: "banner", widget: "image", required: false}
+      - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
+      - {label: "Summary", name: "description", widget: "string"}
+      - {label: "Show On Home Page", name: "lead", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
