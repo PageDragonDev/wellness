@@ -94,7 +94,7 @@ const vlist = [
                 <%
                 const sortedVideos = _.sortBy(leadVideos,["title"]);
                 sortedVideos.forEach((video, idx) => { %>
-                    <div class="video callout">
+                    <a href="/<%- video.path %>" class="video callout">
                         <div class="thumbnail">
                             <img id="thumb<%- video.video%>" src="/images/video.jpg" alt="<%- video.title%>"/>
                         </div>
@@ -102,7 +102,7 @@ const vlist = [
                         <div class="description">
                             <%- marked(video.description) %>
                         </div>
-                    </div>
+                    </a>
                 <% }) %>
             </div>
         </div>
