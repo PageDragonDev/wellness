@@ -1,7 +1,7 @@
 ---
 title: Laser Hair Removal
 categories:
-  - Body
+  - Medical Spa
 layout_type: service
 description: >-
   Laser Hair Removal This light based treatment targets hair follicles and over
