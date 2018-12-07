@@ -16,20 +16,19 @@ specialty3_icon: chiropractic.png
 specialty4_icon: muscle-therapy.png
 specialty1_text: '### Nutrient Therapy
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
-  eu tempus eros sagittis sed. Aenean metus arcu, maximus non nibh vitae, scelerisque blandit leo. Etiam ante mauris, euismod nec mauris eget, egestas faucibus orci.'
+  Here at Centered on Wellness, our mission is to provide total person wellness and care. Each of us is created uniquely and therefore requires different care. Often you can benefit from a combination of oral supplements and nutrient infusion therapy to help “catch you up” from your accumulated nutritional losses'
 specialty2_text: '### Hormone Balance
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
-  eu tempus eros sagittis sed. Aenean metus arcu, maximus non nibh vitae, scelerisque blandit leo. Etiam ante mauris, euismod nec mauris eget, egestas faucibus orci.'
-specialty3_text: '### Chiropractic
+  Bio-identical Hormone Replacement Therapy is a popular option for millions of women
+  who want to improve their health and lifestyle during the changes of life that occur with
+  pre-menopause, perimenopause, and menopause. BHRT is also a very effective
+  treatment for those who suffer from premenstrual symptoms (PMS).'
+specialty3_text: '### Photofacial
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
-  eu tempus eros sagittis sed. Aenean metus arcu, maximus non nibh vitae, scelerisque blandit leo. Etiam ante mauris, euismod nec mauris eget, egestas faucibus orci.'
-specialty4_text: '### Muscle Therapy
+  Lumecca is the most powerful intense pulsed light (IPL) to treat pigmented and vascular lesions. After just one use, patients notice significant improvements in the complexion and clarity of the skin. Lumecca operates using photothermolysis, which provides a photofacial through the delivery of a comfortable light treatment. '
+specialty4_text: '### BOTOX® INJECTABLES
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
-  eu tempus eros sagittis sed. Aenean metus arcu, maximus non nibh vitae, scelerisque blandit leo. Etiam ante mauris, euismod nec mauris eget, egestas faucibus orci.'
+  BOTOX® Cosmetic is a prescription medicine that is injected into muscles and used to temporarily improve the look of both moderate to severe crow’s feet lines and frown lines between the eyebrows in adults.'
 schedule_form: Form goes here. Yada yada.
 green_text: '### Latest Videos
 
