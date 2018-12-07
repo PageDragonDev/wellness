@@ -15,14 +15,18 @@ The goal of breast reconstruction is to restore one or both breasts to near norm
 
 Breast reconstruction often involves multiple procedures performed in stages and can either begin at the time of mastectomy or be delayed until a later date.
 
-Breast reconstruction generally falls into two categories: implant-based reconstruction or flap reconstruction. Implant reconstruction relies on breast implants to help form a new breast mound. Flap (or autologous) reconstruction uses the patient's own tissue from another part of the body to form a new breast.
+Breast reconstruction generally falls into two categories: implant-based reconstruction or flap reconstruction. Implant reconstruction relies on breast implants to help form a new breast mound. Flap (or autologous) reconstruction uses the patient's own tissue from another part of the body to form a new breast.
 
-There are a number of factors that should be taken into consideration when choosing which option is best:
+There are a number of factors that should be taken into consideration when choosing which option is best:
 
-* Type of mastectomy
+* 
+
+Type of mastectomy
+
 * Cancer treatments
 * Patient's body type
 
-A note about symmetry:
+A note about symmetry
+:
 
 If only one breast is affected, it alone may be reconstructed. In addition, a breast lift, breast reduction or breast augmentation may be recommended for the opposite breast to improve symmetry of the size, shape and position of both breasts.
