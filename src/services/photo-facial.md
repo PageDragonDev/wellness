@@ -12,10 +12,7 @@ PHOTOFACIAL
 
 Improve the appearance of:
 
-* 
-
-Age spots (red or brown pigmentations)
-
+* Age spots (red or brown pigmentations)
 * Vascular lesions (veins, telangiectasia, port wine stains)
 * Rosacea (redness)
 * Freckles
