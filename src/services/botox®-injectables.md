@@ -1,7 +1,7 @@
 ---
 title: BOTOX® INJECTABLES
 categories:
-  - Face
+  - Medical Spa
 layout_type: service
 description: >-
   BOTOX® Cosmetic is a prescription medicine that is injected into muscles and
