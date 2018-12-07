@@ -1,8 +1,7 @@
 ---
 title: 'Peels - Chemical, Light, Radio, PRP, Microneedling'
 categories:
-  - Face
-  - Body
+  - Medical Spa
 layout_type: service
 description: >-
   A chemical peel is a technique used to improve and smooth the texture of the
