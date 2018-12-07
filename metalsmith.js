@@ -48,7 +48,7 @@ Metalsmith(__dirname)
             pattern: "**/posts/*.md"
         },
     })) // use `collections.posts` in layouts
-    .use(markdown()) // transpile all md into html
+    .use(markdown({gfm: true, breaks: true, tables: true})) // transpile all md into html
     .use(permalinks({ // change URLs to permalink URLs
         relative: false, // put css only in /css
     }))

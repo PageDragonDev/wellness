@@ -1,0 +1,20 @@
+<div class="services">
+    <div class="header"></div>
+    <div class="container">
+        <h1 class="page-title"><%- title%></h1>
+        <div class="main">
+            <div class="left">
+                <div class="page-banner">
+                    <img src="<%- typeof(banner) !== 'undefined'?banner:'/images/home-header.jpg' %>"/>
+                </div>
+                <div class="content">
+                    <%- contents %>
+                </div>
+            </div>
+            <div class="right">
+                <%- include('partials/service_list') %>
+            </div>
+        </div>
+
+    </div>
+</div>
