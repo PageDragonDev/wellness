@@ -7,11 +7,15 @@ description: >-
   PHOTOFACIAL  uses pulsed light (IPL) to treat and improve the complexion and
   clarity of the skin.
 ---
-PHOTOFACIAL -Lumecca by Inmode for Clear, Beautiful Skin
+PHOTOFACIAL
+ -Lumecca by Inmode for Clear, Beautiful Skin
 
 Improve the appearance of:
 
-* Age spots (red or brown pigmentations)
+* 
+
+Age spots (red or brown pigmentations)
+
 * Vascular lesions (veins, telangiectasia, port wine stains)
 * Rosacea (redness)
 * Freckles
