@@ -32,7 +32,7 @@ Our mission of wellness and prevention does not fit into an insurance dictated m
 * You can enjoy some quiet time seated in a reclining chair and can read, nap, listen to music, do needlework, or the latest Sudoku puzzle, while your NI therapy is in progress  
 * Most of the Nutrient Therapy treatments range between 20-90 minutes to infuse.  Some of our more therapeutic regimens require 2-3 hours. .  
 * There is little to no pain and in most cases, very little discomfort.  Some people experience a warm sensation, and some say that they can taste the vitamins – this is especially true if you are very depleted
-*  \*\**Please be sure to eat and/or bring a snack so that you do not arrive with an empty stomach.  Some Nutrient therapies require hydration during administration, so you may bring drinks of your choice. 
+* \*\**Please be sure to eat and/or bring a snack so that you do not arrive with an empty stomach.  Some Nutrient therapies require hydration during administration, so you may bring drinks of your choice. 
 
 ## How often should I get a treatment?
 
@@ -44,8 +44,9 @@ Preventative and anti-aging treatments are typically recommended 2-4 times a mon
 
 Our goal here at Centered on Wellness is your long-term health and wellness. If this sound likes a partnership you would like to explore further, please call our office to set up a wellness consultation with one of our qualified providers.
 
-Nutrient Infusion Therapy: types of IVs (see brochure for information)
+Nutrient Infusion Therapy: types of IVs (see brochure for information)
 
-[Please Visit](https://wellevate.me/diane-bowen-1)
+[Please Visit
+](https://wellevate.me/diane-bowen-1)TODO: Types of IV's (from brochure)
 
 To help you achieve your optimum wellness, supplements will be reviewed between you and a provider at Centered on Wellness.  We have partnered up with an online dispensary called Wellevate to make ordering and replenishing your supplements simple and easy.  You will have access to the highest quality products and together we will ultimately help improve your ability to follow recommended protocol and reach your wellness goals.
