@@ -1,5 +1,5 @@
 ---
-title: Photo Facial
+title: Photofacial
 categories:
   - Medical Spa
 layout_type: service
