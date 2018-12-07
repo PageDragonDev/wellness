@@ -1,7 +1,7 @@
 ---
-title: Laser Vein (Spider Vein Removal) Sclerotherapy
+title: 'Sclerotherapy Laser Vein (Spider Vein Removal) '
 categories:
-  - Body
+  - Medical Spa
 layout_type: service
 description: >-
   The most common spider vein treatment involves the injection of a solution
