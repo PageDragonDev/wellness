@@ -44,9 +44,7 @@ If you wish to treat more than just wrinkles, lines and folds, and are looking f
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**
-Platelet Rich Plasma (PRP) Facial
-**
+**Platelet Rich Plasma (PRP) Facial**
 
 * Improve skin tone and texture
 * Tighten skin that has started to lose its elasticity
