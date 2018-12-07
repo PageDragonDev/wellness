@@ -1,7 +1,7 @@
 ---
 title: Dermal Fillers
 categories:
-  - Face
+  - Medical Spa
 layout_type: service
 description: >-
   Fillers are often used to treat fine lines, wrinkles, and age-related volume
