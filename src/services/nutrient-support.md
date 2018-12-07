@@ -36,7 +36,7 @@ Our mission of wellness and prevention does not fit into an insurance dictated m
 
 ## How often should I get a treatment?
 
-Many conditions often require an intense initial period of treatments and oral supplements that transition to a maintenance phase.  
+Many conditions often require an intense initial period of treatments and oral supplements that transition to a maintenance phase.
 
 The initial phase can vary but is commonly 1-3 times per week for a period of up to 3 months, with a maintenance phase of 1-4 times per month for 3-6 months.  
 
