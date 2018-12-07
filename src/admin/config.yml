@@ -81,7 +81,7 @@ collections:
     delete: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness", "Nutrient Therapy"]}
       - {label: "Banner", name: "banner", widget: "image", required: false}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "service"}
       - {label: "Summary", name: "description", widget: "string"}
@@ -91,7 +91,7 @@ collections:
     folder: "src/videos"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness", "Nutrient Therapy"]}
       - {label: "YouTube Video ID", name: "video", widget: "string", required: true}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "video"}
       - {label: "Summary", name: "description", widget: "string"}
@@ -103,7 +103,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness", "Nutrient Therapy"]}
       - {label: "Banner", name: "banner", widget: "image", required: false}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "post"}
       - {label: "Summary", name: "description", widget: "string"}
