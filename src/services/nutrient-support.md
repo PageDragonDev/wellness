@@ -44,7 +44,7 @@ Preventative and anti-aging treatments are typically recommended 2-4 times a mon
 
 Our goal here at Centered on Wellness is your long-term health and wellness. If this sound likes a partnership you would like to explore further, please call our office to set up a wellness consultation with one of our qualified providers.
 
-## Nutrient Infusion Therapy Types
+## Nutrient Infusion Therapy Types (TODO: Verify This)
 
 ### Myer’s Cocktail
 
@@ -54,7 +54,6 @@ Founded by Dr. John Myer, this infusion contains several vitamins, minerals, and
 
 Adds some extra immune boosting ingredients to support your immune system and help fight off illness.  This infusion contains Tri-Amino Blend with the addition of Zinc and Lysine.  The infusion also has three powerful B vitamins along with a strong dose of the body’s most power antioxidant, Glutathione, added to the end of the therapy.  This is a great choice for general nutritional supplementation and an immune system boost year-round.
 
-[Please Visit
-](https://wellevate.me/diane-bowen-1)TODO: Types of IV's (from brochure)
+[Please Visit](https://wellevate.me/diane-bowen-1) (TODO)
 
 To help you achieve your optimum wellness, supplements will be reviewed between you and a provider at Centered on Wellness.  We have partnered up with an online dispensary called Wellevate to make ordering and replenishing your supplements simple and easy.  You will have access to the highest quality products and together we will ultimately help improve your ability to follow recommended protocol and reach your wellness goals.
