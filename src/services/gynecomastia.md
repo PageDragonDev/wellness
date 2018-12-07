@@ -2,7 +2,6 @@
 title: Gynecomastia
 categories:
   - Breast
-  - Body
 layout_type: service
 description: >-
   Some men develop extra fatty deposits over their chest muscle which can

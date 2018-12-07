@@ -1,7 +1,7 @@
 ---
 title: Photo Facial
 categories:
-  - Face
+  - Medical Spa
 layout_type: service
 description: >-
   PHOTOFACIAL  uses pulsed light (IPL) to treat and improve the complexion and

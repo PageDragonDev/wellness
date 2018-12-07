@@ -1,8 +1,7 @@
 ---
 title: Fat Grafting
 categories:
-  - Face
-  - Body
+  - Breast
 layout_type: service
 description: >-
   Also called autologous fat transfer, is emerging as a new breast
