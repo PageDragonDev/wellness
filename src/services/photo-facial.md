@@ -1,5 +1,5 @@
 ---
-title: PHOTO-FACIAL
+title: Photo Facial
 categories:
   - Face
 layout_type: service
