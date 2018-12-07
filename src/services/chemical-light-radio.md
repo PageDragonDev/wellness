@@ -9,11 +9,17 @@ description: >-
   skin. Facial skin is mostly treated, and scarring can be improved. Chemical
   peels are intended to remove the outermost layers of the skin.
 ---
-**PHOTOFACIAL - Lumecca by Inmode**
+\*\*PHOTOFACIAL
 
-For Clear, Beautiful Skin. Improve the appearance of:
+* Lumecca by Inmode\*\*
 
-* Age spots (red or brown pigmentations)
+For Clear, Beautiful Skin
+. Improve the appearance of:
+
+* 
+
+Age spots (red or brown pigmentations)
+
 * Vascular lesions (veins, telangiectasia, port wine stains)
 * Rosacea (redness)
 * Freckles
@@ -23,27 +29,39 @@ Lumecca is the most powerful intense pulsed light (IPL) to treat pigmented and v
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Skin Tightening with Radio Frequency - Forma by Inmode**
+\*\*Skin Tightening with Radio Frequency
 
-Discover younger-acting skin. Improve the skin’s overall appearance with smoother skin and a more radiant glow.
+* Forma by Inmode
+  \*\*
 
-Forma uses radio-frequency technology to provide optimal skin contraction in the deep layers of the skin. Radio-frequency energy will stimulate the formation of new collagen and improve skin elasticity for long lasting improvement. Forma is suitable for all skin types and is appropriate for individuals seeking a non-invasive and a natural looking approach to improvements in skin tone and texture irregularities.
+Discover younger-acting skin
+. 
+Improve the skin’s overall appearance with smoother skin and a more radiant glow.
 
-Areas that can be treated:
+Forma uses radio-frequency technology to provide optimal skin contraction in the deep layers of the skin. Radio-frequency energy will stimulate the formation of new collagen and improve skin elasticity for long lasting improvement. Forma is suitable for all skin types and is appropriate for individuals seeking a non-invasive and a natural looking approach to improvements in skin tone and texture irregularities.
 
-* Forma can be used on both the face and the body. 
+Areas that can be treated:
+
+* 
+
+Forma can be used on both the face and the body. 
+
 * Commonly treated areas on the face include: forehead, crows feet, nasolabial folds, jowls, smile lines, and neck. 
 * On the body, popular treatments consist of the arms (bat wings), abdomen, and other areas that may need contraction.
 
 Forma is an essentially painless procedure with no downtime due to its precise technology and deep-layer targeting of the skin.  Slight redness in the treatment area is common post-procedure, which subsides within a few hours.  It is recommended that weekly sessions are performed over a 6-8 week period for optimal results.  Forma can be used in combination with most other laser treatments, facials, injectables, and/or filler.
 
-If you are looking for a facial pick me up with no downtime this is the treatment for you!
+If you are looking for a facial pick me up with no downtime this is the treatment for you!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Fractora by Inmode **
+**
+Fractora by Inmode
+ **
 
-Rejuvenate & restore your skin.  Discover a superior solution to decrease wrinkles, improve skin complexion, reduce skin irregularities (including acne/acne scars) and provide a healthier younger looking you! 
+Rejuvenate & restore your skin
+.\
+Discover a superior solution to decrease wrinkles, improve skin complexion, reduce skin irregularities (including acne/acne scars) and provide a healthier younger looking you! 
 
 Fractora skin treatment is a fractional rejuvenation that combines radio frequency with microneedling. This treatment is designed to create a controlled trauma to the skin in which the body produces collagen and elastin to repair resulting in a reduction in wrinkles, fine lines, and improvement to the overall texture of the skin. This treatment is most commonly used on the face and neck but any part of the body can be treated that exhibit wrinkles, discoloration or acne scarring. This treatment can be used over active cystic acne, acne scars, and melasma. It is safe for all skin types. 
 
@@ -51,9 +69,14 @@ Fractora can be combined with other treatments including Platelet Rich Plasma (P
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Platelet Rich Plasma (PRP) Facial**
+**
+Platelet Rich Plasma (PRP) Facial
+**
 
-Improve skin tone, texture and acne scars. Tighten skin that has started to lose its elasticity. Soften fine lines and reduce pore size.
+Improve skin tone, texture and acne scars
+. Tighten skin that has started to lose its elasticity
+. Soften fine lines and reduce pore size
+.
 
 PRP is a natural product created from your own body. Blood is drawn from you and placed into a centrifuge. Your blood is spun down allowing the separation of red and white blood cells from the platelets and plasma. Platelets are the cells in the blood that help tissue to heal and grow new cells. When PRP is injected into the skin it helps promote collagen to grow, regenerate tissue, and help to smooth and tighten the skin.  
 
@@ -61,9 +84,9 @@ PRP is used for adding volume to faces that are beginning to look drawn, plump o
 
 Three treatment sessions are generally recommended, 4-6 weeks apart, to achieve the best outcome. PRP can be combined with laser, BOTOX, injectables to best target a patient’s unique issues and thus achieve desired results of younger, healthier looking skin.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Collagen Induction Therapy (Microneedling)
+Collagen Induction Therapy (Microneedling)
 
 Collagen Induction Therapy also known as Microneedling, and is a non-surgical way to repair and restore your skin to its youthful appearance and help to repair acne scarring. Our FDA approved treatment is a progressive method of refining the texture of your skin while tightening the layers below the surface. This is particular effective for treating acne scars. 
 
