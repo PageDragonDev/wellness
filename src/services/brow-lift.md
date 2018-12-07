@@ -13,7 +13,10 @@ A brow lift, also known as a forehead lift, reduces wrinkle lines, improves frow
 
 A brow lift:
 
-* Reduces the wrinkle lines that develop horizontally across the forehead, as well as those that occur on the bridge of the nose, between the eyes
+* 
+
+Reduces the wrinkle lines that develop horizontally across the forehead, as well as those that occur on the bridge of the nose, between the eyes
+
 * Improves frown lines, the vertical creases that develop between the eyebrows
 * Raises sagging brows that are hooding the upper eyelids
 * Places the eyebrows in an alert and youthful position
