@@ -41,7 +41,19 @@ body {
                 color: #ffffff;
                 text-transform: uppercase;
                 text-decoration: none;
+                white-space: nowrap;
             }
+        }
+    }
+
+    .social {
+        flex: 1;
+        margin-top: 40px;
+
+        .fab {
+            font-size: 26px;
+            color: #000000;
+            margin-right: 10px;
         }
     }
 }
@@ -282,6 +294,11 @@ body {
             .contact {
                 text-align: center;
                 flex: 1;
+
+                a {
+                    color: #000000;
+                    text-decoration: none;
+                }
             }
         }
     }
@@ -488,11 +505,9 @@ body {
 
     .footer-area {
         display: flex;
-        justify-content: space-between;
 
         .footer {
             text-align: left;
-            flex: 1;
             padding: 20px;
 
             h3 {
@@ -502,8 +517,10 @@ body {
             .menu {
                 list-style: none;
                 padding: 0;
+                display: flex;
 
                 li {
+                    padding-right: 20px;
                     a {
                         color: #617880;
                         text-decoration: none;
@@ -513,6 +530,14 @@ body {
                         border-bottom: dotted 1px #617880;
                     }
                 }
+            }
+        }
+
+        .social {
+            .fab {
+                font-size: 32px;
+                color: #000000;
+                margin-right: 10px;
             }
         }
     }

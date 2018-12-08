@@ -1,7 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 layout_type: page
-banner: 
+banner:
 ---
-
-
