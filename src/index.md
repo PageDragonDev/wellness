@@ -29,7 +29,8 @@ specialty3_text: '### Photofacial
 specialty4_text: '### BOTOX® INJECTABLES
 
   BOTOX® Cosmetic is a prescription medicine that is injected into muscles and used to temporarily improve the look of both moderate to severe crow’s feet lines and frown lines between the eyebrows in adults.'
-schedule_form: Form goes here. Yada yada.
+newsletter_form: <script type="text/javascript" src="https://form.jotform.com/jsform/83515465977976"></script>
+schedule_form: 
 green_text: '### Latest Videos
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi.'
