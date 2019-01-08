@@ -14,8 +14,7 @@ const excerpts = require('metalsmith-better-excerpts');
 const marked = require('marked');
 const data = require('metalsmith-data');
 const _ = require('lodash');
-const async = require('async');
-const fetch = require('node-fetch');
+const slug = require('slug');
 
 console.log('ENV:',process.env.ENV);
 
@@ -27,8 +26,7 @@ Metalsmith(__dirname)
         moment,
         marked,
         _:_,
-        async: async,
-        fetch: fetch,
+        slug: slug,
     })
     .use(data({}))
     .use(collections({

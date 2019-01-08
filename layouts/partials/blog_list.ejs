@@ -1,0 +1,42 @@
+<div class="blog-list">
+    <%
+        const sortedPosts = _.sortBy(posts, ['date']).reverse();
+
+        sortedPosts.forEach((post, idx) => { %>
+            <% if(idx === 0) {%>
+                <div class="post lead">
+                    <h2 class="title"><a href="/<%- post.path %>"><%- post.title %> <% if (typeof(post.podcast) !== 'undefined') { %><i class="fas fa-podcast"></i><% } %></a></h2>
+                    <div class="date-categories">
+                        <span class="date"><%= moment(post.date).format('MM/DD/YYYY') %></span>
+                        <span class="categories">
+                            <% post.categories.forEach(cat =>{ %>
+                                <a href="/blog-by-category#<%- slug(cat) %>"><%- cat %></a>
+                            <% }) %>
+                        </span>
+                    </div>
+                    <div class="summary">
+                        <div class="image"><img src="<%- post.image %>" alt=""/></div>
+                        <%- post.contents %>
+                    </div>
+                    <h2 class="recent-posts">Recent Posts</h2>
+                </div>
+            <% } else { %>
+                <div class="post">
+                    <h2 class="title"><a href="/<%- post.path %>"><%- post.title %> <% if (typeof(post.podcast) !== 'undefined') { %><i class="fas fa-podcast"></i><% } %></a></h2>
+                    <div class="date-categories">
+                        <span class="date"><%= moment(post.date).format('MM/DD/YYYY') %></span>
+                        <span class="categories">
+                            <% post.categories.forEach(cat =>{ %>
+                                <a href="/blog-by-category#<%- slug(cat) %>"><%- cat %></a>
+                            <% }) %>
+                        </span>
+                    </div>
+                    <div class="summary">
+                        <%- post.description %>
+                        <div><a class="more" href="/<%- post.path %>">Read More</a></div>
+                    </div>
+                </div>
+            <% } %>
+        <% }); %>
+
+</div>

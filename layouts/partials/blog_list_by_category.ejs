@@ -1,0 +1,44 @@
+<div class="blog-categories">
+    <%
+        const sortedPosts = _.sortBy(posts, ['date']);
+
+        // UNIQUE LIST OF CATEGORIES
+
+        let cats = [];
+        sortedPosts.forEach(post => {
+            if (post.categories) {
+                const postCats = post.categories;
+                postCats.forEach(c => {cats.push(c)});
+            }
+        });
+        cats = _.uniq(cats).sort();
+        // RENDER CATEGORIES
+        %> <div class="categories-list"> <%
+            cats.forEach(cat => { %>
+                <div class="category">
+                    <h2 class="category-name" id="<%-slug(cat)%>"><%- cat %></h2>
+                    <div class="post-list">
+                        <% sortedPosts.forEach(post => {
+                            if (post.categories) {
+                                const postCats = post.categories;
+                                if (postCats.indexOf(cat) >= 0) {
+                                    %>
+                                    <div class="post">
+                                        <h3 class="title"><a href="/<%- post.path %>"><%- post.title %></a><% if (typeof(post.podcast) !== 'undefined') { %> <i class="fas fa-podcast"></i><% } %></h3>
+                                        <div class="date-categories">
+                                            <span class="date"><%= moment(post.date).format('MM/DD/YYYY') %></span>
+                                        </div>
+                                        <div class="summary">
+                                            <%- post.description %>
+                                            <div><a class="more" href="/<%- post.path %>">Read More</a></div>
+                                        </div>
+                                    </div>
+                                    <%
+                                };
+                            }
+                        })%>
+                    </div>
+                </div>
+        <% }); %>
+    %>  </div>
+</div>

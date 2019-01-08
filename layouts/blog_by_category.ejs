@@ -1,14 +1,24 @@
 <div class="page blog">
-    <div class="header"></div>
+    <div class="header">
+        <% if (typeof(banner) !== 'undefined' && banner !== null) {%>
+        <div class="page-banner" style="background-image: url(<%- banner %>)">
+            <div class="container">
+                <h1 class="page-title"><%- title%></h1>
+            </div>
+        </div>
+        <% } %>
+    </div>
     <div class="container">
+        <% if (typeof(banner) === 'undefined' || banner === null) {%>
         <h1 class="page-title"><%- title%></h1>
+        <% } %>
         <div class="main">
             <div class="left">
                 <div class="content">
                     <%- contents %>
                 </div>
                 <div class="posts-area">
-                    <%- include('partials/blog_list') %>
+                    <%- include('partials/blog_list_by_category') %>
                 </div>
             </div>
 

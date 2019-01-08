@@ -1,7 +1,7 @@
 ---
-title: Hormone Balancing
+title: Hormone Balancing for Women
 categories:
-  - Health & Wellness
+  - Hormone Balancing
 layout_type: service
 description: >-
   Bio-identical Hormone Replacement Therapy is a popular option for millions of
