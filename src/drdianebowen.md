@@ -2,7 +2,7 @@
 title: Dr. Diane Bowen
 layout_type: bio
 ---
-![](/images/drbowen-standing.jpg)
+![](/images/drbowen.jpg)
 
 Dr. Diane Bowen received her Bachelor of Arts from Emory University in Atlanta in 1983 and her medical degree from Medical College of Georgia in 1987.
 

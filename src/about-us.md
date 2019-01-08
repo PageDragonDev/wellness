@@ -2,22 +2,26 @@
 title: About Us
 layout_type: page
 ---
-At Golden Isles Center for Plastic Surgery, we provide patients with care that is compassionate, conscientious, and personalized from the consultation through recovery and beyond. We treat each patient with the same respect and dignity we would give our own family members. Our staff nourishes an ambiance of professionalism, integrity, and confidentiality while being friendly and compassionate.  Golden Isles Center for Plastic Surgery provides patients with advanced aesthetics, skin care, and cosmetic surgery that is personalized to meet your needs and expectations. Our goal is to be the office that our patient's enjoy dealing with because we exceed or meet their expectations, assisting them with all aspects of their medical care.
+Located under the oaks of the Gascoigne Bluff area on Saint Simons Island, Georgia it will feel as if you stepped into a vacation destination.  This building is home to likeminded providers, whose care is focused on the whole person and not organ specific.  Centered on Wellness has its own relaxation room for you to receive your treatment in peace and tranquility.  The Center’s mission is to provide quality patient care through compassion, active listening, and education.  Every treatment plan is designed for each individual based upon lab results.  There is no guess work.  Our goal is to work in partnership with you on your wellness journey to reach your long term wellness goals.  The highly trained, friendly staff at Centered on Wellness values your confidentiality in a healthcare setting and looks forward to helping with your wellness care.
 
-The Wellness Center is the crossroad of wellness and beauty.
 
-## Dr. Diane Bowen
+## Dr. Diane Bowen, Plastic Surgeon and Director of Centered on Wellness
 
-![](/images/drbowen-standing.jpg) Dr. Bowen is Board Certified. In addition to her residency in plastic and reconstructive surgery at the University of Tennessee in Memphis, Dr. Bowen completed additional fellowships in pediatric plastic surgery in Akron, Ohio and in breast reconstruction and cosmetic surgery at Georgetown University in Washington, DC.
+![](/images/drbowen.jpg) Dr. Bowen is a board certified plastic surgeon that has been in practice for over 20 years.  She believes that a person’s beauty is on the inside and out.  Her goal is to bring like-minded practitioners together to help patients achieve their optimum health through wellness and prevention.  Dr. Bowen is the founder of Centered on Wellness where  we focus on “Whole person, well person, inside and out.”
 
 [Learn More About Dr. Bowen](/drdianebowen)
 
 
+## Dr. James Green, Family Practitioner
 
-  
-
-## Dr. James Green
-
-![](/images/DrJamesWGreeneMDFAAFP_4015_162.png) A family physician's knowledge, experience, insight and technical ability all come together when evaluating and treating patients. Dr. Green's goal is to help all of my patients achieve their optimal health through wellness and prevention. He believes the key is forming highly personalized partnerships by sincerely caring, listening, educating and advocating for my patients. His family medicine practice allows me to share my passion for prevention, men's and women's health issues, cardiovascular disease, diabetes, hypertension, obesity, thyroid disease and gastrointestinal health.
+![](/images/drgreene.jpg) Dr. Green is a family medicine doctor who has been in practice for over 30 years.  His goal is to help his patients achieve their optimum health through wellness and prevention.  He believes the key to success is forming highly personalized partnerships by sincerely caring, listening, education and advocating for his patients.  Dr. Greene is also a founding provider at Centered on wellness and is like-minded in his view of providing whole person care in the journey towards wellness.
 
 [Learn More About Dr. Green](/drjamesgreen)
+
+
+## Dr. Sage Campione, Chiropractor and Integrative Practitioner
+![](/images/drcampione.jpg) Is a Doctor of Chiropractic and integrative medicine, specializing in wellness and holistic methods of illness prevention.  She has been in practice for 18 years helping patients with their wellness needs.  She is a founding provider in Centered on Wellness who cares about patients as a whole person and looks forward to working with you on your overall wellness and care.
+
+
+## Lauren Koncul, Nurse Practitioner
+![](/images/Koncul.jpg) Is a Nurse Practitioner who specializes in family nursing.  She has been working in the cosmetic and reconstructive surgery field for 13 years.  She is a caring and compassionate provider who takes the time to listen to your concerns and educates you on your wellness care options in order to help you reach your wellness goals.  She believes that the whole person, well person approach to wellness and prevention is the key to healthy success.

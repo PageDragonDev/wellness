@@ -4,7 +4,7 @@ layout_type: bio
 ---
 ## My Philosophy and Approach to Wellness
 
-![](/images/DrJamesWGreeneMDFAAFP_4015_162.png)
+![](/images/drgreene.jpg)
 
 A family physician’s knowledge, experience, insight and technical ability all come together when evaluating and treating patients. My goal is to help all of my patients achieve their optimal health through wellness and prevention. I believe the key is forming highly personalized partnerships by sincerely caring, listening, educating and advocating for my patients. My family medicine practice allows me to share my passion for prevention, men’s and women’s health issues, cardiovascular disease, diabetes, hypertension, obesity, thyroid disease and gastrointestinal health.
 
