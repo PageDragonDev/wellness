@@ -2,35 +2,46 @@
 title: Home
 layout_type: home
 banner: home-header.jpg
-header_tag: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam,
-  eu tempus eros sagittis sed.'
-top_callout: '### Face, Breast, Body, Skin
+header_tag: 'Our mission is to provide whole person care to help you achieve wellness and beauty inside and out.  We have like-minded, compassionate providers under one roof to help you on your wellness journey.'
+top_callout: '### Whole Person, Well Person
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Personalized treatment plan based on lab results designed with you in mind.
 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+  Compassionate and attentive practitioners who take an integrative approach to helping you achieve wellness and prevention.'
 specialty1_icon: nutrient-therapy.png
 specialty2_icon: hormone-balance.png
 specialty3_icon: chiropractic.png
 specialty4_icon: muscle-therapy.png
 specialty1_text: '### Nutrient Therapy
 
-  Here at Centered on Wellness, our mission is to provide total person wellness and care. Each of us is created uniquely and therefore requires different care. Often you can benefit from a combination of oral supplements and nutrient infusion therapy to help “catch you up” from your accumulated nutritional losses'
-specialty2_text: '### Hormone Balance
+  We do not always have the time or resources when it comes to proper diet and nutrition.  Long lasting nutritional imbalance can lead to illness and disease, showing the importance of replenishing these vitamins and minerals.  Often a combination of supplements and IV Nutritional Therapy will be needed to help “catch you back up” from accumulated nutritional deficit. Here at Centered on Wellness, Nutrient Therapy can help!
 
-  Bio-identical Hormone Replacement Therapy is a popular option for millions of women
-  who want to improve their health and lifestyle during the changes of life that occur with
-  pre-menopause, perimenopause, and menopause. BHRT is also a very effective
-  treatment for those who suffer from premenstrual symptoms (PMS).'
-specialty3_text: '### Photofacial
 
-  Lumecca is the most powerful intense pulsed light (IPL) to treat pigmented and vascular lesions. After just one use, patients notice significant improvements in the complexion and clarity of the skin. Lumecca operates using photothermolysis, which provides a photofacial through the delivery of a comfortable light treatment. '
-specialty4_text: '### BOTOX® INJECTABLES
+  [Learn More](/services)'
+specialty2_text: >-
+  ### Hormone Balance
 
-  BOTOX® Cosmetic is a prescription medicine that is injected into muscles and used to temporarily improve the look of both moderate to severe crow’s feet lines and frown lines between the eyebrows in adults.'
+   Bio-identical hormone therapy can help you find relief from the symptoms you may experiencing from imbalanced hormones.   Centered on Wellness, we create a customized, medically sound program that includes bio-identical hormone replacement therapy (BHRT), fitness and nutrition plans.  Available for both men and woman.
+
+
+   [Learn More](/services)
+specialty3_text: >-
+  ### Stress Management
+
+  We live in an age of constant stress and strain physically, mentally, and emotionally.  We are often nutritionally depleted and without the support we need to get re-balanced.  The standard solution currently is to be put on medication that promises to blunt our response and help us feel calm while offering no real lasting solutions.  If you are looking for an alternative way with lasting solutions Centered on Wellness can help!
+
+
+  [Learn More](/services)
+specialty4_text: >-
+  ### Weight Management
+
+  If you are not looking to take drastic measures like surgery or buy into the latest fad to fit into those favorite jeans, Centered on Wellness has the solution for you!
+
+
+  [Learn More](/services)
 newsletter_form: <script type="text/javascript" src="https://form.jotform.com/jsform/83515465977976"></script>
-schedule_form: 
+schedule_form:
 green_text: '### Latest Videos
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi.'
@@ -44,4 +55,4 @@ saying_text: '### Rose
 
 # Welcome To Centered on wellness
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi. Donec vitae luctus nisi. Mauris gravida sollicitudin diam, eu tempus eros sagittis sed. Aenean metus arcu, maximus non nibh vitae, scelerisque blandit leo. Etiam ante mauris, euismod nec mauris eget, egestas faucibus orci.
+Our lives are increasingly stressed and hectic resulting in imbalance and ultimately disease.  At Centered on Wellness, areas of imbalance are identified based through lab results, which allow for a personalized treatment plan to be developed specifically for each individual based on his or her needs.  Our goal is to be on the forefront of prevention and a leader in the community for wellness.  Our like minded practitioners provide an integrative approach to wellness and prevention focusing on you as a “whole person, well person” and not just an organ or illness that needs treatment. We look forward to working along side you on your journey to wellness!
