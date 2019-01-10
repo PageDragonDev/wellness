@@ -45,12 +45,13 @@ schedule_form:
 green_text: '### Latest Videos
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec porttitor mi.'
-saying_icon: saying.png
-saying_text: '### Rose
+testimonials:
+  - saying_text: >-
+      ### S.H.
+      
+      #### patient
 
-    #### patient
-
-    "I look and feel great! I wish I would have done this years ago! The team at Centered On Wellness is ultra-professional, talented, and made me feel like I was in my home."'
+      "Information is power.  Centered on wellness gave me the information I was looking for by providing me with a detailed analysis of how to achieve optimal health.  My primary care physician keeps me healthy but he does not have time to help me achieve the best possible health.  A program like centered on wellness is long overdue.  I am 52, healthy and feel good.  But I want more.  Centered on wellness gives me the knowledge to fight against and take control over the aging process."
 ---
 
 # Welcome To Centered on wellness

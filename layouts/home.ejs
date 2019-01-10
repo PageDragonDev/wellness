@@ -115,12 +115,11 @@ const vlist = [
             <div class="saying-title">
                 <h3>What You're Saying</h3>
             </div>
-            <div class="saying-icon">
-                <img src="/images/<%- saying_icon %>" alt="What You're Saying">
-            </div>
+            <% testimonials.forEach(saying => { %>
             <div class="saying-text">
-                <%- marked(saying_text) %>
+                <%- marked(saying.saying_text) %>
             </div>
+            <% }) %>
         </div>
     </div>
 
