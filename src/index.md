@@ -3,7 +3,9 @@ title: Home
 layout_type: home
 banner: home-header.jpg
 header_tag: 'Our mission is to provide whole person care to help you achieve wellness and beauty inside and out.  We have like-minded, compassionate providers under one roof to help you on your wellness journey.'
-top_callout: '### Whole Person, Well Person
+top_callout: '### Whole Person
+
+  ### Well Person
 
   Personalized treatment plan based on lab results designed with you in mind.
 
@@ -11,8 +13,8 @@ top_callout: '### Whole Person, Well Person
   Compassionate and attentive practitioners who take an integrative approach to helping you achieve wellness and prevention.'
 specialty1_icon: nutrient-therapy.png
 specialty2_icon: hormone-balance.png
-specialty3_icon: chiropractic.png
-specialty4_icon: muscle-therapy.png
+specialty3_icon: stress-management.png
+specialty4_icon: weight-management.png
 specialty1_text: '### Nutrient Therapy
 
   We do not always have the time or resources when it comes to proper diet and nutrition.  Long lasting nutritional imbalance can lead to illness and disease, showing the importance of replenishing these vitamins and minerals.  Often a combination of supplements and IV Nutritional Therapy will be needed to help “catch you back up” from accumulated nutritional deficit. Here at Centered on Wellness, Nutrient Therapy can help!
@@ -48,10 +50,17 @@ green_text: '### Latest Videos
 testimonials:
   - saying_text: >-
       ### S.H.
-      
+
       #### patient
 
       "Information is power.  Centered on wellness gave me the information I was looking for by providing me with a detailed analysis of how to achieve optimal health.  My primary care physician keeps me healthy but he does not have time to help me achieve the best possible health.  A program like centered on wellness is long overdue.  I am 52, healthy and feel good.  But I want more.  Centered on wellness gives me the knowledge to fight against and take control over the aging process."
+  - saying_text: >-
+      ### S.H.
+
+      #### patient
+
+      "Information is power.  Centered on wellness gave me the information I was looking for by providing me with a detailed analysis of how to achieve optimal health.  My primary care physician keeps me healthy but he does not have time to help me achieve the best possible health.  A program like centered on wellness is long overdue.  I am 52, healthy and feel good.  But I want more.  Centered on wellness gives me the knowledge to fight against and take control over the aging process."
+
 ---
 
 # Welcome To Centered on wellness

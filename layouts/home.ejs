@@ -67,7 +67,7 @@ const vlist = [
             <%- marked(specialty2_text) %>
         </div>
         <div class="specialty">
-            <img src="/images/<%- specialty1_icon %>" alt="Specialty"/>
+            <img src="/images/<%- specialty3_icon %>" alt="Specialty"/>
             <%- marked(specialty3_text) %>
         </div>
         <div class="specialty">
@@ -89,9 +89,12 @@ const vlist = [
         <%- schedule_form %>
     </div>
 
+    <% if (leadVideos.length) { %>
     <div class="green-band">
         <div class="green-area container">
+
             <%- marked(green_text) %>
+
             <div class="green-callouts videos-list">
                 <%
                 const sortedVideos = _.sortBy(leadVideos,["title"]);
@@ -109,6 +112,7 @@ const vlist = [
             </div>
         </div>
     </div>
+    <% } %>
 
     <div class="saying-band">
         <div class="saying-area container">
