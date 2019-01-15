@@ -51,15 +51,16 @@ testimonials:
   - saying_text: >-
       ### S.H.
 
-      #### patient
+      #### Patient
 
       "Information is power.  Centered on wellness gave me the information I was looking for by providing me with a detailed analysis of how to achieve optimal health.  My primary care physician keeps me healthy but he does not have time to help me achieve the best possible health.  A program like centered on wellness is long overdue.  I am 52, healthy and feel good.  But I want more.  Centered on wellness gives me the knowledge to fight against and take control over the aging process."
   - saying_text: >-
-      ### S.H.
+      ### Hugh Adams
 
-      #### patient
+      #### Ironman Florida 11/4/2018
 
-      "Information is power.  Centered on wellness gave me the information I was looking for by providing me with a detailed analysis of how to achieve optimal health.  My primary care physician keeps me healthy but he does not have time to help me achieve the best possible health.  A program like centered on wellness is long overdue.  I am 52, healthy and feel good.  But I want more.  Centered on wellness gives me the knowledge to fight against and take control over the aging process."
+      "After training all summer for IronMan Florida, my body and immune system was somewhat
+      compromised I decided to visit Dr, Sage Campione for an IV infusion of important vitamins to help bolster my recovering body. Under Dr Campione’s direction, I had 3 infusions with Giutathione added to help recovery on a cellular level. This procedure assisted me in completing my goal with the IronMan Florida competition. My recovery was quick and I have been able to start back training for my next season quickly, Thank you Dr. Sage Campione and staff for helping me compete on a level I could not achieve alone."
 
 ---
 

@@ -260,9 +260,11 @@ body {
         min-height: 80px;
         padding-top: 50px;
         padding-bottom: 50px;
+        display: flex;
 
         .saying-area {
             display: flex;
+            flex-wrap: wrap;
             justify-content: space-between;
 
             .saying-title {
@@ -277,26 +279,29 @@ body {
                 }
             }
 
-            .saying-icon {
-                flex: 1;
-                text-align: center;
-            }
+            .sayings {
+                width: 80%;
+                display: flex;
+                flex-wrap: wrap;
 
-            .saying-text {
-                flex: 1;
-                color: #879bbc;
 
-                h3 {
-                    color: #000000;
-                }
-
-                h3, h4 {
-                    margin:0;
-                }
-
-                h4 {
-                    font-style: italic;
+                .saying-text {
+                    flex: 1;
                     color: #879bbc;
+                    margin-right: 20px;
+
+                    h3 {
+                        color: #000000;
+                    }
+
+                    h3, h4 {
+                        margin:0;
+                    }
+
+                    h4 {
+                        font-style: italic;
+                        color: #879bbc;
+                    }
                 }
             }
 
