@@ -1,22 +1,76 @@
+<%
+    const sortedServices = _.sortBy(services, ['title']);
+%>
 <div class="services">
     <div class="header"></div>
     <div class="container">
         <h1 class="page-title"><%- title%></h1>
         <div class="main">
-            <div class="left">
-                <% if (typeof(banner) !== 'undefined' && banner !== null) {%>
-                <div class="page-banner">
-                    <img src="<%- banner %>"/>
-                </div>
-                <% } %>
-                <div class="content">
-                    <%- contents %>
-                </div>
-            </div>
-            <div class="right">
-                <%- include('partials/service_list') %>
-            </div>
-        </div>
+            <%- contents %>
+            <div class="category">
 
+                <div class="icon-area"><img class="icon" src="<%- nutrient_support_icon %>"/></div>
+                <div class="text">
+                    <h2>Nutrient Support</h2>
+                    <%- marked(nutrient_support) %>
+                    <ul>
+                        <% sortedServices.forEach(service => {
+                            if (service.categories.indexOf('Nutrient Support') >= 0) {
+                        %>
+                            <li class="service"><a href="/<%- service.path %>"><%- service.title %></a></li>
+                        <% }}) %>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="category">
+
+                <div class="icon-area"><img class="icon" src="<%- hormone_balancing_icon %>"/></div>
+                <div class="text">
+                    <h2>Hormone Balancing</h2>
+                    <%- marked(hormone_balancing) %>
+                    <ul>
+                        <% sortedServices.forEach(service => {
+                            if (service.categories.indexOf('Hormone Balancing') >= 0) {
+                        %>
+                            <li class="service"><a href="/<%- service.path %>"><%- service.title %></a></li>
+                        <% }}) %>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="category">
+
+                <div class="icon-area"><img class="icon" src="<%- stress_management_icon %>"/></div>
+                <div class="text">
+                    <h2>Stress Management</h2>
+                    <%- marked(stress_management) %>
+                    <ul>
+                        <% sortedServices.forEach(service => {
+                            if (service.categories.indexOf('Stress Management') >= 0) {
+                        %>
+                            <li class="service"><a href="/<%- service.path %>"><%- service.title %></a></li>
+                        <% }}) %>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="category">
+
+                <div class="icon-area"><img class="icon" src="<%- weight_management_icon %>"/></div>
+                <div class="text">
+                    <h2>Weight Management</h2>
+                    <%- marked(weight_management) %>
+                    <ul>
+                        <% sortedServices.forEach(service => {
+                            if (service.categories.indexOf('Weight Management') >= 0) {
+                        %>
+                            <li class="service"><a href="/<%- service.path %>"><%- service.title %></a></li>
+                        <% }}) %>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
     </div>
 </div>

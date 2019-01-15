@@ -8,6 +8,10 @@ body {
     font-family: 'Muli', sans-serif;
 }
 
+a, a:visited {
+    color: #519cd3;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -17,6 +21,7 @@ body {
     background-color: #79c499;
     height: 106px;
     display: flex;
+    flex-wrap: wrap;
     padding-left: 200px;
 
     .logo-area {
@@ -49,6 +54,7 @@ body {
     .social {
         flex: 1;
         margin-top: 40px;
+        min-width: 118px;
 
         a {
             display: inline-block;
@@ -184,6 +190,7 @@ body {
 
     .specialties-area {
         display: flex;
+        flex-wrap: wrap;
         flex-direction: row;
         justify-content: space-between;
         margin-bottom: 50px;
@@ -197,6 +204,8 @@ body {
             line-height: 20px;
             position: relative;
             padding-bottom: 30px;
+            min-width: 250px;
+            margin-bottom: 20px;
 
             h3 {
                 text-transform: uppercase;
@@ -223,6 +232,10 @@ body {
             }
             .newsletter {
                 padding-bottom: 20px;
+
+                iframe {
+                    max-width: 100%;
+                }
             }
         }
     }
@@ -398,7 +411,7 @@ body {
 
                     .category-name {
                         padding: 3px;
-                        background-color: #efefef;
+                        background-color: #a5dee9;
                     }
 
                     .services-list {
@@ -417,7 +430,7 @@ body {
     }
 }
 
-.service, .services, .videos, .video {
+.service, .videos, .video {
     .header {
         background-image: url(/images/contact.jpg);
         background-size: cover;
@@ -446,12 +459,23 @@ body {
             }
 
             .content {
-                img {
-                    float: left;
-                    margin-right: 15px;
-                    margin-bottom: 15px;
-                    min-width: 218px;
+                p, ul {
+                    font-size: 20px;
+
+                    img {
+                        float: left;
+                        margin-right: 15px;
+                        margin-bottom: 15px;
+                        max-width: 107px;
+                        margin-bottom: 40px;
+                    }
                 }
+
+                h3 {
+                    clear: both;
+                }
+
+
             }
         }
 
@@ -473,7 +497,8 @@ body {
 
                     .category-name {
                         padding: 3px;
-                        background-color: #efefef;
+                        background-color: #a5dee9;
+                        color: #ffffff;
                     }
 
                     .services-list {
@@ -486,6 +511,39 @@ body {
                             }
                         }
                     }
+                }
+            }
+        }
+    }
+}
+
+.services {
+    .header {
+        background-image: url(/images/contact.jpg);
+        background-size: cover;
+        height: 106px;
+    }
+
+    h1 {
+        text-align: left;
+    }
+
+    .main {
+
+        h2 {
+            clear: both;
+        }
+
+        .category {
+            margin-bottom: 20px;
+            min-height: 300px;
+            display: flex;
+
+            .icon-area {
+                padding-top: 20px;
+                padding-right: 20px;
+
+                .icon {
                 }
             }
         }

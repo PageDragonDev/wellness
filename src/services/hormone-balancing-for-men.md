@@ -10,7 +10,7 @@ description: >-
   also a very effective  treatment for those who suffer from premenstrual
   symptoms (PMS)
 ---
-Bio-identical Hormone Replacement Therapy is a popular option for millions of women who want to improve their health and lifestyle during the changes of life that occur with pre-menopause, perimenopause, and menopause. BHRT is also a very effective treatment for those who suffer from premenstrual symptoms (PMS). Signs of hormonal imbalance include:
+Along with other changes associated with aging, some people experience a gradual loss of hormones. In men, this is called andropause or “male menopause” and refers mainly to decreasing levels of testosterone.
 
 * Hot Flashes
 * Night Sweats
