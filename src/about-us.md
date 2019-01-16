@@ -1,5 +1,6 @@
 ---
 title: About Us
+banner: /images/building.jpg
 layout_type: page
 ---
 Located under the oaks of the Gascoigne Bluff area on Saint Simons Island, Georgia it will feel as if you stepped into a vacation destination.  This building is home to likeminded providers, whose care is focused on the whole person and not organ specific.  Centered on Wellness has its own relaxation room for you to receive your treatment in peace and tranquility.  The Center’s mission is to provide quality patient care through compassion, active listening, and education.  Every treatment plan is designed for each individual based upon lab results.  There is no guess work.  Our goal is to work in partnership with you on your wellness journey to reach your long term wellness goals.  The highly trained, friendly staff at Centered on Wellness values your confidentiality in a healthcare setting and looks forward to helping with your wellness care.
