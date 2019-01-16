@@ -358,11 +358,20 @@ a, a:visited {
     .header {
         background-image: url(/images/contact.jpg);
         background-size: cover;
-        height: 106px;
+        height: auto;
+        min-height: 106px;
+        padding: 0;
 
-        .banner {
-            position: absolute;
+        .banner-area {
             margin: 0 auto;
+            text-align: center;
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            .banner {
+                display: inline;
+                border: solid 1px #ffffff;
+            }
         }
     }
 
