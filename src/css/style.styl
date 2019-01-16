@@ -373,7 +373,7 @@ a, a:visited {
         display: flex;
 
         .left {
-            width: 67%;
+            min-width: 67%;
             .page-banner {
                 position: relative;
 
@@ -387,8 +387,12 @@ a, a:visited {
                     float: left;
                     margin-right: 15px;
                     margin-bottom: 15px;
-                    min-width: 218px;
-                    max-width: 25%;
+                    min-width: 100px;
+                    max-width: 150px;
+                }
+
+                p, ul {
+                    font-size: 20px;
                 }
             }
         }
