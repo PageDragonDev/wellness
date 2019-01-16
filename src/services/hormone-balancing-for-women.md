@@ -5,14 +5,14 @@ categories:
 layout_type: service
 description: >-
   Bio-identical Hormone Replacement Therapy is a popular option for millions of
-  women  who want to improve their health and lifestyle during the changes of
+  women who want to improve their health and lifestyle during the changes of
   life that occur with  pre-menopause, perimenopause, and menopause. BHRT is
   also a very effective  treatment for those who suffer from premenstrual
   symptoms (PMS)
 ---
 ## Bio-identical Hormone Replacement Therapy (BHRT) Program for Women
 
-Bio-identical Hormone Replacement Therapy is a popular option for millions of women who want to improve their health and lifestyle during the changes of life that occur with pre-menopause, perimenopause, and menopause. BHRT is also a very effective treatment for those who suffer from premenstrual symptoms (PMS).
+Bio-identical Hormone Replacement Therapy is a popular option for millions of women who want to improve their health and lifestyle during the changes of life that occur with pre-menopause, perimenopause, and menopause. BHRT is also a very effective treatment for those who suffer from premenstrual symptoms (PMS).
 
 Signs of hormonal imbalance include:
 
@@ -33,10 +33,7 @@ Signs of hormonal imbalance include:
 
 ## Bio-identical Hormone Replacement Therapy (BHRT) Program for Women
 
-Bio-identical hormone therapy may help patients find relief from the symptoms they are
-experiencing from imbalanced hormones. At Centered on Wellness, we create
-customized, medically sound programs that include bio-identical hormone replacement,
-fitness and nutrition plans.
+Bio-identical hormone therapy may help patients find relief from the symptoms they are experiencing from imbalanced hormones. At Centered on Wellness, we create customized, medically sound programs that include bio-identical hormone replacement, fitness and nutrition plans.
 
 _Individual female hormone replacement treatment programs include_
 

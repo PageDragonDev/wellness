@@ -1,9 +1,9 @@
 ---
-title: Hormone Balancing Quiz
+title: Are you a candidate for BHRT?
 categories:
   - Hormone Balancing
 layout_type: service
 description:
 ---
-
-TODO: BHRT Pop Up Quiz
+## Are you a candidate for BHRT?
+### Take the quiz to find out!

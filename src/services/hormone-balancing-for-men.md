@@ -37,10 +37,7 @@ _Signs of hormonal imbalance include:_
 
 ## Bio-identical Hormone Therapy (BHRT) Programs for Men
 
-Fortunately, bio-identical hormone therapy can help patients find relief from the
-symptoms they are experiencing from imbalanced hormones. At Centered on Wellness,
-we create customized, medically sound programs that include bio-identical hormone
-replacement, fitness and nutrition plans.
+Fortunately, bio-identical hormone therapy can help patients find relief from the symptoms they are experiencing from imbalanced hormones. At Centered on Wellness, we create customized, medically sound programs that include bio-identical hormone replacement, fitness and nutrition plans.
 
 _Individual male hormone replacement treatment programs include:_
 * Treatment by Dr. Sage Campione, who is highly trained in Bio-identical Hormone
@@ -58,18 +55,9 @@ Bio-identical Hormone Replacement Therapy for men is available in many forms. Th
 
 Recommended treatment options include:
 
-* **Creams and Gels** – Testosterone is absorbed very well through the skin in most
-people and can be a simple and very effective delivery method. In some cases,
-though, men will have trouble getting adequate levels of testosterone when using
-transdermal delivery. Transdermal delivery also risks having the hormone rub off or
-“transfer” to others who should not be exposed to such high levels of hormone.
-* **Injections** - Testosterone can also be injected directly into the muscles and can be
-a very effective way to increase levels of testosterone. This method does, however,
-require weekly or most often, twice-weekly injections to get adequate and constant
-levels of the hormone.
+* **Creams and Gels** – Testosterone is absorbed very well through the skin in most people and can be a simple and very effective delivery method. In some cases, though, men will have trouble getting adequate levels of testosterone when using transdermal delivery. Transdermal delivery also risks having the hormone rub off or “transfer” to others who should not be exposed to such high levels of hormone.
+* **Injections** - Testosterone can also be injected directly into the muscles and can be a very effective way to increase levels of testosterone. This method does, however, require weekly or most often, twice-weekly injections to get adequate and constant levels of the hormone.
 
 ### Follow-Up
 
-Dr.Sage Campione will schedule appointments to continually monitor your hormone
-levels and to review the alleviation of your symptoms. Treatment will be revised as
-necessary until the optimum balance is achieved.
+Dr.Sage Campione will schedule appointments to continually monitor your hormone levels and to review the alleviation of your symptoms. Treatment will be revised as necessary until the optimum balance is achieved.
