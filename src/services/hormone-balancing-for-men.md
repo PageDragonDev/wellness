@@ -10,23 +10,6 @@ description: >-
   also a very effective  treatment for those who suffer from premenstrual
   symptoms (PMS)
 ---
-Along with other changes associated with aging, some people experience a gradual loss of hormones. In men, this is called andropause or “male menopause” and refers mainly to decreasing levels of testosterone.
-
-* Hot Flashes
-* Night Sweats
-* Memory Loss
-* Depression
-* Anxiety
-* Low Sex Drive
-* Vaginal Dryness
-* Fatigue
-* Urinary Incontinence
-* Fibroids
-* Mood Swings
-* Weight Gain
-* Hair Loss
-* Endometriosis
-
 ## Bio-identical Hormone Replacement Therapy (BHRT) Program for Men
 
 Along with other changes associated with aging, some people experience a gradual
@@ -76,12 +59,12 @@ Through an evaluation of your unique symptoms and a thorough review of saliva, u
 and blood tests, Dr. Sage Campione will make a recommendation that is best for you.
 Recommended treatment options include:
 
-* Creams and Gels – Testosterone is absorbed very well through the skin in most
+* **Creams and Gels** – Testosterone is absorbed very well through the skin in most
 people and can be a simple and very effective delivery method. In some cases,
 though, men will have trouble getting adequate levels of testosterone when using
 transdermal delivery. Transdermal delivery also risks having the hormone rub off or
 “transfer” to others who should not be exposed to such high levels of hormone.
-* Injections– Testosterone can also be injected directly into the muscles and can be
+* **Injections** - Testosterone can also be injected directly into the muscles and can be
 a very effective way to increase levels of testosterone. This method does, however,
 require weekly or most often, twice-weekly injections to get adequate and constant
 levels of the hormone.

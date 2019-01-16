@@ -49,10 +49,10 @@ _Individual female hormone replacement treatment programs include_
 * Nutritional and fitness recommendations and support
 
 ### Treatment
-* Creams and Gels – This treatment is usually applied to the skin; however, in some
+* **Creams and Gels** – This treatment is usually applied to the skin; however, in some
 circumstances, the creams can be inserted directly into the vagina for specific
 treatment reasons.
-* Tablets/troches –are a common and effective way to administer BHRT. Tablets are
+* **Tablets/troches** –are a common and effective way to administer BHRT. Tablets are
 taken every day by mouth. While tablets have gotten a bad reputation in some
 circles, that reputation was incorrectly applied to true Bio-identical estrogen. The
 bad reputation is applied to estrogens obtained from horse urine and chemicalized
