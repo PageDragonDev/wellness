@@ -1,5 +1,5 @@
 ---
-title: Brain Tap Technology
+title: BrainTap Technology
 categories:
   - Weight Management
 layout_type: service

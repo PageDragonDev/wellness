@@ -27,40 +27,7 @@ Along with other changes associated with aging, some people experience a gradual
 * Hair Loss
 * Endometriosis
 
-## Bio-identical Hormone Replacement Therapy (BHRT) Program for Women
-
-Bio-identical hormone therapy may help patients find relief from the symptoms they are
-experiencing from imbalanced hormones. At Centered on Wellness, we create
-customized, medically sound programs that include bio-identical hormone replacement,
-fitness and nutrition plans.
-
-_Individual female hormone replacement treatment programs include_
-
-* Treatment by Dr. Sage Campione, who is highly trained in Bio-identical Hormone Replacement Therapy
-* Full review of symptoms, including personal and family medical history
-* Comprehensive hormone level testing
-* Thorough analysis of lab results
-* Customized programs to alleviate specific symptoms based on personal medical history and lab result analysis
-* Compounded hormones and supplements
-* Nutritional and fitness recommendations and support
-
-### Treatment
-* Creams and Gels – This treatment is usually applied to the skin; however, in some
-circumstances, the creams can be inserted directly into the vagina for specific
-treatment reasons.
-* Tablets/troches –are a common and effective way to administer BHRT. Tablets are
-taken every day by mouth. While tablets have gotten a bad reputation in some
-circles, that reputation was incorrectly applied to true Bio-identical estrogen. The
-bad reputation is applied to estrogens obtained from horse urine and chemicalized
-synthetic progestins that are NOT used by Dr. Sage
-
-### Follow-Up
-
-Dr. Sage Campione will schedule appointments to continually monitor your hormone
-levels and to review the alleviation of your symptoms. Treatment will be revised as
-necessary until optimal balance is achieved.
-
-_Men:_
+## Bio-identical Hormone Replacement Therapy (BHRT) Program for Men
 
 Along with other changes associated with aging, some people experience a gradual
 loss of hormones. In men, this is called andropause or “male menopause” and refers
