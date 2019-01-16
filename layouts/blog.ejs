@@ -3,17 +3,11 @@
     <div class="container">
         <h1 class="page-title"><%- title%></h1>
         <div class="main">
-            <div class="left">
-                <div class="content">
-                    <%- contents %>
-                </div>
-                <div class="posts-area">
-                    <%- include('partials/blog_list') %>
-                </div>
+            <div class="content">
+                <%- contents %>
             </div>
-
-            <div class="right">
-                <%- include('partials/service_list') %>
+            <div class="posts-area">
+                <%- include('partials/blog_list') %>
             </div>
         </div>
 
