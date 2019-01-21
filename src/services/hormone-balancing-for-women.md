@@ -37,7 +37,7 @@ Bio-identical hormone therapy may help patients find relief from the symptoms th
 
 _Individual female hormone replacement treatment programs include_
 
-* Treatment by Dr. Sage Campione, who is highly trained in Bio-identical Hormone Replacement Therapy
+* Treatment by a highly trained Bio-identical Hormone Replacement Therapist
 * Full review of symptoms, including personal and family medical history
 * Comprehensive hormone level testing
 * Thorough analysis of lab results
@@ -53,10 +53,10 @@ treatment reasons.
 taken every day by mouth. While tablets have gotten a bad reputation in some
 circles, that reputation was incorrectly applied to true Bio-identical estrogen. The
 bad reputation is applied to estrogens obtained from horse urine and chemicalized
-synthetic progestins that are NOT used by Dr. Sage
+synthetic progestins that are NOT used in our treatment
 
 ### Follow-Up
 
-Dr. Sage Campione will schedule appointments to continually monitor your hormone
+We will schedule appointments to continually monitor your hormone
 levels and to review the alleviation of your symptoms. Treatment will be revised as
 necessary until optimal balance is achieved.

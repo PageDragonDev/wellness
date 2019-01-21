@@ -40,9 +40,8 @@ _Signs of hormonal imbalance include:_
 Fortunately, bio-identical hormone therapy can help patients find relief from the symptoms they are experiencing from imbalanced hormones. At Centered on Wellness, we create customized, medically sound programs that include bio-identical hormone replacement, fitness and nutrition plans.
 
 _Individual male hormone replacement treatment programs include:_
-* Treatment by Dr. Sage Campione, who is highly trained in Bio-identical Hormone
 
-Replacement Therapy
+* Replacement Therapy
 * Full review of symptoms, including personal and family medical history
 * Comprehensive hormone level testing
 * Customized programs to alleviate specific symptoms based on personal medical history and lab result analysis
@@ -51,7 +50,7 @@ Replacement Therapy
 
 ### Treatment
 
-Bio-identical Hormone Replacement Therapy for men is available in many forms. Through an evaluation of your unique symptoms and a thorough review of saliva, urine and blood tests, Dr. Sage Campione will make a recommendation that is best for you.
+Bio-identical Hormone Replacement Therapy for men is available in many forms. Through an evaluation of your unique symptoms and a thorough review of saliva, urine and blood tests, we will make a recommendation that is best for you.
 
 Recommended treatment options include:
 
@@ -60,4 +59,4 @@ Recommended treatment options include:
 
 ### Follow-Up
 
-Dr.Sage Campione will schedule appointments to continually monitor your hormone levels and to review the alleviation of your symptoms. Treatment will be revised as necessary until the optimum balance is achieved.
+We will schedule appointments to continually monitor your hormone levels and to review the alleviation of your symptoms. Treatment will be revised as necessary until the optimum balance is achieved.
