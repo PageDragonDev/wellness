@@ -1,10 +1,15 @@
 <div class="page post">
     <div class="container">
-        <h1><%- title %></h1>
+        <h1 class="title"><%- title %></h1>
         <% if(typeof(date) != "undefined"){%>
             <div class="date"><%- moment(date).format("MM/DD/YYYY") %></div>
         <%}%>
+        <div class="page-banner">
+            <img src="<%- typeof(banner) !== 'undefined'?banner:'/images/home-header.jpg' %>"/>
+        </div>
+        <div class="contents">
         <%- contents %>
+        </div>
         <% if(typeof(back_to) != "undefined"){%>
             <p><a href="<%- back_to %>">Back</a></p>
         <%}%>
