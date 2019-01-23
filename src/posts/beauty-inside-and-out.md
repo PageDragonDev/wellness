@@ -6,6 +6,7 @@ categories:
   - Weight Management
 layout_type: post
 description: Often a person’s weight plays a role in decision making at a doctor’s office. Over 65% of American adults and over 35% of American children are dealing with obesity and the effects of obesity.
+lead: false
 ---
 
 Health, wellness and beauty are interlocking circles; each plays a role with the other. As a plastic surgeon and physician it is my goal to optimize health and wellness while addressing issues to improve appearance and to help a person match their appearance to their inner vitality. Because of my goal to optimize a patient’s health and wellness was Centered on Wellness created. We live stressful lives and over time stress affects our appearance and our health. While a person can be a good candidate for a surgery, they may have nutritional issues that need to be addressed ahead of time to optimize healing and recovery.

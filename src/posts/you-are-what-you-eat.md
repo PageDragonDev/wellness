@@ -6,6 +6,7 @@ categories:
   - Nutrient Support
 layout_type: post
 description: A significant theory of aging is that the process of oxidation leads to disease and death through a build up of free radicals which are the waste products created when the body turns food into energy. Free radicals accumulate also over time from environmental factors, like smoking, radiation, sun-exposure, food additives and stress. Antioxidants slow the cell damaging effect of free radicals to promote health.
+lead: false
 ---
 
 Today’s article will be a broad overview about minerals, vitamins and vitamin supplements with attached references. A significant theory of aging is that the process of oxidation leads to disease and death through a build up of free radicals which are the waste products created when the body turns food into energy. Free radicals accumulate also over time from environmental factors, like smoking, radiation, sun-exposure, food additives and stress. Antioxidants slow the cell damaging effect of free radicals to promote health. A good rule of thumb is to eat naturally colorful foods and to prepare/cook them so that they retain much of their color. Many of us do not have the time or inclination to choose our foods based solely on their vitamin content. If you were going on a trip and had to take vitamins…the following vitamins would be some of my top choices.

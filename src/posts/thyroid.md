@@ -6,6 +6,7 @@ categories:
   - Hormone Balance
 layout_type: post
 description: It is a small butterfly shaped gland that sits in the area just below your Adam’s Apple. Although it is about the size of a butterfly, it serves as the hormone powerhouse of your entire body. It is estimated that 27 million Americans have a thyroid disorder and more than half of them remain undiagnosed.
+lead: false
 ---
 It is a small butterfly shaped gland that sits in the area just below your Adam’s Apple. Although it is about the size of a butterfly, it serves as the hormone powerhouse of your entire body. It is estimated that 27 million Americans have a thyroid disorder and more than half of them remain undiagnosed. About 10% of women have some type of thyroid dysfunction. The incidence of Hypothyroidism (under active thyroid) increases with age so that by the time one reaches 60, as many as 17 percent of women and 9 percent of men fall into this category. Thyroid disease runs in families and is associated with diabetes. Thyroid disease affects every organ in your body including your skin and hair. It also influences your mood and energy level. The signs and symptoms of an under active thyroid include dry skin, thinning hair, constipation, muscle cramps, feeling cold when others are comfortable, tired, weight gain, and high cholesterol. Some women experience
 irregular intervals of increased menstrual flow. Now all of that is enough to make anyone

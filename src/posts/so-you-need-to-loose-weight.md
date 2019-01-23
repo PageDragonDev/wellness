@@ -6,6 +6,7 @@ categories:
   - Weight Management
 layout_type: post
 description: Often a person’s weight plays a role in decision making at a doctor’s office. Over 65% of American adults and over 35% of American children are dealing with obesity and the effects of obesity.
+lead: false
 ---
 
 Often a person’s weight plays a role in decision making at a doctor’s office. Over 65% of American adults and over 35% of American children are dealing with obesity and the effects of obesity. While our movie stars and media idols become more buff and slim, as a nation, we are becoming more obese and fat. Why is that?
