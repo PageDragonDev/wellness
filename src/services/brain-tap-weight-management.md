@@ -3,6 +3,7 @@ title: BrainTap Technology
 categories:
   - Weight Management
 layout_type: service
+banner: \images\iStock-906644946.jpg
 description:
 ---
 ## What is BrainTap?

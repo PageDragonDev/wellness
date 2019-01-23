@@ -3,6 +3,7 @@ title: Hormone Balancing for Women
 categories:
   - Hormone Balancing
 layout_type: service
+banner: \images\Hormones.jpg
 description: >-
   Bio-identical Hormone Replacement Therapy is a popular option for millions of
   women who want to improve their health and lifestyle during the changes of

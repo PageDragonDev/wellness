@@ -3,6 +3,7 @@ title: Are you a candidate for BHRT?
 categories:
   - Hormone Balancing
 layout_type: service
+banner: \images\Mens%20Hormones.jpg
 description:
 ---
 ## Are you a candidate for BHRT?

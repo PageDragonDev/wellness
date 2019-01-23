@@ -3,6 +3,7 @@ title: BrainTap Technology
 categories:
   - Stress Management
 layout_type: service
+banner: \images\iStock-917046440.jpg
 description:
 ---
 ## What is BrainTap?
