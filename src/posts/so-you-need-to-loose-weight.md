@@ -3,7 +3,7 @@ title: So you need to loose weight
 author: Dr. Diane Bowen
 date: 2018-08-16T03:20:50.805Z
 categories:
-  - Weight Loss
+  - Weight Management
 layout_type: post
 description: Often a person’s weight plays a role in decision making at a doctor’s office. Over 65% of American adults and over 35% of American children are dealing with obesity and the effects of obesity.
 ---

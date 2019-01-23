@@ -3,7 +3,7 @@ title: You Are What You Eat - Helpful vitamins and minerals
 author: Dr. Diane Bowen
 date: 2018-08-16T03:20:50.805Z
 categories:
-  - Nutrient Therapy
+  - Nutrient Support
 layout_type: post
 description: A significant theory of aging is that the process of oxidation leads to disease and death through a build up of free radicals which are the waste products created when the body turns food into energy. Free radicals accumulate also over time from environmental factors, like smoking, radiation, sun-exposure, food additives and stress. Antioxidants slow the cell damaging effect of free radicals to promote health.
 ---
