@@ -84,7 +84,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Face", "Breast", "Body", "Medical Spa", "Health & Wellness"]}
       - {label: "Banner", name: "banner", widget: "image", required: false}
       - {label: "Layout", name: "layout_type", widget: "hidden", default: "service"}
-      - {label: "Summary", name: "description", widget: "string"}
+      - {label: "Summary", name: "description", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "videos" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Videos" # Used in the UI, ie.: "New Post"

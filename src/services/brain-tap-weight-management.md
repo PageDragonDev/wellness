@@ -7,6 +7,9 @@ banner: \images\iStock-906644946.jpg
 description:
 ---
 ## What is BrainTap?
+
+![BrainTap](/images/Brain-Tap-Girl-with-Headset-on.jpg "BrainTap")
+
 BrainTap’s innovative technology produces “brainwave entrainment”- the harmonization of brainwaves to a specialized sound- much like meditation but requires no special training or experience. While meditation has been proven to help stress management and relaxation, learning effective meditation techniques can require years of disciplined effort. BrainTap produces the same relaxation response, giving your body precisely what it needs to get back in balance and reverse the effect of stress on the body.
 
 This innovative tool was developed after decades of research by Dr. Richard Porter to help patients achieve balanced brainwave activity needed for optimal function of body and mind.
