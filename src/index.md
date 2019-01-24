@@ -15,7 +15,7 @@ specialty1_icon: nutrient-therapy.png
 specialty2_icon: hormone-balance.png
 specialty3_icon: stress-management.png
 specialty4_icon: weight-management.png
-specialty1_text: '### Nutrient Therapy
+specialty1_text: '### Nutrient Support
 
   We do not always have the time or resources when it comes to proper diet and nutrition.  Long lasting nutritional imbalance can lead to illness and disease, showing the importance of replenishing these vitamins and minerals.  Often a combination of supplements and IV Nutritional Therapy will be needed to help “catch you back up” from accumulated nutritional deficit. Here at Centered on Wellness, Nutrient Therapy can help!
 
