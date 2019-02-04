@@ -584,27 +584,53 @@ ul {
 .blog {
     .blog-list, .categories-list {
         .post {
-            h2, h3 {
-                margin-bottom: 0;
+            display: flex;
+            margin-bottom: 20px;
+            border: solid 1px #cbcbcb;
+            padding: 10px;
+            position: relative;
 
-                a {
-                    text-decoration: none;
+            .banner {
+                flex: 1;
+                padding-right: 20px;
+
+                img {
+                    width: 100%;
+                    display: block;
                 }
             }
 
-            .date-categories {
+            .info {
+                flex: 2;
 
-                .date {
+                h2, h3 {
+                    margin-top: 0;
+                    margin-bottom: 10px;
 
+                    a {
+                        text-decoration: none;
+                    }
                 }
-                .categories {
-                    float: right;
-                }
-            }
 
-            .summary {
-                margin-top: 10px;
-                font-size: 18px;
+                .date-categories {
+
+                    .date {
+
+                    }
+                    .categories {
+                        float: right;
+                    }
+                }
+
+                .summary {
+                    margin-top: 10px;
+                    font-size: 18px;
+
+                    .more {
+                        margin-top: 10px;
+                        display: block;
+                    }
+                }
             }
         }
     }

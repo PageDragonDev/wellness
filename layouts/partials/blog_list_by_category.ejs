@@ -24,13 +24,18 @@
                                 if (postCats.indexOf(cat) >= 0) {
                                     %>
                                     <div class="post">
-                                        <h3 class="title"><a href="/<%- post.path %>"><%- post.title %></a><% if (typeof(post.podcast) !== 'undefined') { %> <i class="fas fa-podcast"></i><% } %></h3>
-                                        <div class="date-categories">
-                                            <span class="date"><%= moment(post.date).format('MM/DD/YYYY') %></span>
+                                        <div class="banner">
+                                            <a class="more" href="/<%- post.path %>"><img src="<%- post.banner %>" /></a>
                                         </div>
-                                        <div class="summary">
-                                            <%- post.description %>
-                                            <div><a class="more" href="/<%- post.path %>">Read More</a></div>
+                                        <div class="info">
+                                            <h3 class="title"><a href="/<%- post.path %>"><%- post.title %></a><% if (typeof(post.podcast) !== 'undefined') { %> <i class="fas fa-podcast"></i><% } %></h3>
+                                            <div class="date-categories">
+                                                <span class="date"><%= moment(post.date).format('MM/DD/YYYY') %></span>
+                                            </div>
+                                            <div class="summary">
+                                                <%- post.description %>
+                                                <div><a class="more" href="/<%- post.path %>">Read More</a></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <%
