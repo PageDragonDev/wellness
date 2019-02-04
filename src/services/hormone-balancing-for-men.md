@@ -9,6 +9,7 @@ description: >-
   life that occur with  pre-menopause, perimenopause, and menopause. BHRT is
   also a very effective  treatment for those who suffer from premenstrual
   symptoms (PMS)
+banner: /images/iStock-690303324.jpg
 ---
 ## Bio-identical Hormone Replacement Therapy (BHRT) Program for Men
 
