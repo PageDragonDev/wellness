@@ -1,5 +1,5 @@
 ---
-title: Wellavate Nutrient Infusion Therapy
+title: Wellevate
 categories:
   - Nutrient Support
 layout_type: service

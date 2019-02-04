@@ -13,11 +13,11 @@ Located under the oaks of the Gascoigne Bluff area on Saint Simons Island, Georg
 [Learn More About Dr. Bowen](/drdianebowen)
 
 
-## Dr. James Green, Family Practitioner
+## Dr. James Greene, Family Practitioner
 
-![](/images/drgreene.jpg) Dr. Green is a family medicine doctor who has been in practice for over 30 years.  His goal is to help his patients achieve their optimum health through wellness and prevention.  He believes the key to success is forming highly personalized partnerships by sincerely caring, listening, education and advocating for his patients.  Dr. Greene is also a founding provider at Centered on wellness and is like-minded in his view of providing whole person care in the journey towards wellness.
+![](/images/drgreene.jpg) Dr. Greene is a family medicine doctor who has been in practice for over 30 years.  His goal is to help his patients achieve their optimum health through wellness and prevention.  He believes the key to success is forming highly personalized partnerships by sincerely caring, listening, education and advocating for his patients.  Dr. Greene is also a founding provider at Centered on wellness and is like-minded in his view of providing whole person care in the journey towards wellness.
 
-[Learn More About Dr. Green](/drjamesgreen)
+[Learn More About Dr. Green](/drjamesgreene)
 
 
 ## Lauren Koncul, Nurse Practitioner

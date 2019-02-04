@@ -60,7 +60,7 @@ testimonials:
       #### Ironman Florida 11/4/2018
 
       "After training all summer for IronMan Florida, my body and immune system was somewhat
-      compromised I decided to visit Dr, Sage Campione for an IV infusion of important vitamins to help bolster my recovering body. Under Dr Campione’s direction, I had 3 infusions with Giutathione added to help recovery on a cellular level. This procedure assisted me in completing my goal with the IronMan Florida competition. My recovery was quick and I have been able to start back training for my next season quickly, Thank you Dr. Sage Campione and staff for helping me compete on a level I could not achieve alone."
+      compromised I decided to visit Dr, Sage Campione for an IV infusion of important vitamins to help bolster my recovering body. Under Centered on Wellness' care, I had 3 infusions with Giutathione added to help recovery on a cellular level. This procedure assisted me in completing my goal with the IronMan Florida competition. My recovery was quick and I have been able to start back training for my next season quickly, Thank you Centered on Wellness and staff for helping me compete on a level I could not achieve alone."
 
 ---
 
