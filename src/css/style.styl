@@ -25,17 +25,20 @@ ul {
 
 .header {
     background-color: #79c499;
-    height: 106px;
     display: flex;
     flex-wrap: wrap;
-    padding-left: 200px;
+
+    @media (min-width: 350px) {
+
+    }
 
     .logo-area {
         flex: 1;
+        text-align: center;
+        max-width: 250px;
 
         .logo {
-            max-height: 75%;
-            display: block;
+            height: 100px;
         }
     }
 
@@ -43,11 +46,21 @@ ul {
         flex: 1;
         display: flex;
         list-style: none;
-        margin-top: 45px;
         padding: 0;
+        margin-left: 15px;
+
+
+        @media (min-width: 1033px) {
+            margin-top: 45px;
+        }
 
         li {
             margin-right: 15px;
+            display: none;
+
+            @media (min-width: 829px) {
+                display: inline;
+            }
 
             a {
                 color: #ffffff;
@@ -55,16 +68,49 @@ ul {
                 text-decoration: none;
                 white-space: nowrap;
             }
+
+            &.burger {
+                display: inline;
+                color: #ffffff;
+                font-size: 30px;
+
+                @media (min-width: 829px) {
+                    margin-top: 45px;
+                    display: none;
+                }
+            }
+        }
+
+        &:hover {
+            display: flex;
+
+            li {
+                display: inline;
+                &.burger {
+                    display: none;
+                }
+            }
+
+            @media (min-width: 829px) {
+                display: flex;
+
+                li {
+                    display: inline;
+                    &.burger {
+                        display: none;
+                    }
+                }
+            }
         }
     }
 
-    .social {
-        flex: 1;
-        margin-top: 40px;
-        min-width: 118px;
+    .hours {
+        color: #ffffff;
+        margin: 15px;
 
-        a {
-            display: inline-block;
+        .social {
+            flex: 1;
+            margin-top: 5px;
 
             .fab {
                 font-size: 26px;
@@ -123,6 +169,22 @@ ul {
             border-left: solid 2px #000000;
             position:relative;
             left: -15px;
+            display: none;
+
+            @media (min-width: 970px) {
+                font-size: 13px;
+                display: inline-block;
+            }
+
+            @media (min-width: 1100px) {
+                font-size: 15px;
+                display: inline-block;
+            }
+
+            @media (min-width: 1475px) {
+                font-size: 18px;
+                display: inline-block;
+            }
         }
 
         .learn-more {
@@ -134,9 +196,13 @@ ul {
             font-weight: bold;
             padding-left: 12px;
             padding-right: 12px;
-            display: inline-block;
+            display: none;
             text-decoration: none;
             cursor: pointer;
+
+            @media (min-width: 1339px) {
+                display: inline-block;
+            }
         }
     }
 }
@@ -155,6 +221,7 @@ ul {
 
     .main {
         margin-bottom: 50px;
+        text-align: center;
     }
 
     .callout-band {
@@ -166,6 +233,9 @@ ul {
 
         .callout-area {
             display: flex;
+            justify-content: center;
+            max-height: 220px;
+            overflow: hidden;
 
             .left {
                 width: 29%
@@ -178,12 +248,24 @@ ul {
                 background-color: calloutcolor;
                 color: #ffffff;
                 padding: 10px;
-                text-align: center;
+                max-height: 230px;
+                font-size: 15px;
+                display: none;
+
+                @media (min-width: 1195px) {
+                    display: block;
+                }
 
                 h3 {
                     font-weight: normal;
+                    justify-content: center;
                     text-transform: uppercase;
-                    margin: 0;
+                    margin-bottom: 3px;
+                    margin-top: 3px;
+                }
+
+                ul {
+                    margin-top: 4px;
                 }
             }
             .right {
@@ -197,8 +279,8 @@ ul {
 
     .specialties-area {
         display: flex;
-        flex-wrap: wrap;
         flex-direction: row;
+        flex-wrap: wrap;
         justify-content: space-between;
         margin-bottom: 50px;
 
@@ -209,22 +291,21 @@ ul {
             margin-right: 9px;
             font-size: 18px;
             line-height: 20px;
-            position: relative;
-            padding-bottom: 30px;
-            min-width: 250px;
-            margin-bottom: 20px;
+            text-decoration: none;
+            color: #000000;
+
+            .specialty-icon-block {
+                height: 210px;
+
+                img {
+                    max-width: 270px;
+                }
+            }
 
             h3 {
                 text-transform: uppercase;
                 text-decoration: underline;
                 font-size: 24px;
-            }
-
-            a {
-                position: absolute;
-                bottom: 0;
-                display: block;
-                width: 100%;
             }
         }
     }
@@ -232,24 +313,18 @@ ul {
     .newsletter-band {
         background-color: #ececec;
         margin-bottom: 50px;
+        display: none;
+
+        @media (min-width: 578px) {
+            display: block;
+        }
 
         .newsletter-area {
-
-
-
             .icon-area {
-                display: none;
 
-                @media(min-width: 700px) {
-                    display: block;
-                }
             }
             .newsletter {
-                padding-bottom: 20px;
 
-                iframe {
-                    max-width: 100%;
-                }
             }
         }
     }
@@ -276,10 +351,13 @@ ul {
 
             .green-callouts {
                 display: flex;
+                flex-wrap: wrap;
                 justify-content: space-between;
 
                 .callout {
-
+                    min-width: 300px;
+                    max-width: 300px;
+                    margin: 15px;
                 }
             }
         }
@@ -291,11 +369,9 @@ ul {
         min-height: 80px;
         padding-top: 50px;
         padding-bottom: 50px;
-        display: flex;
 
         .saying-area {
             display: flex;
-            flex-wrap: wrap;
             justify-content: space-between;
 
             .saying-title {
@@ -310,29 +386,26 @@ ul {
                 }
             }
 
-            .sayings {
-                width: 80%;
-                display: flex;
-                flex-wrap: wrap;
+            .saying-icon {
+                flex: 1;
+                text-align: center;
+            }
 
+            .saying-text {
+                flex: 1;
+                color: #879bbc;
 
-                .saying-text {
-                    flex: 1;
+                h3 {
+                    color: #000000;
+                }
+
+                h3, h4 {
+                    margin:0;
+                }
+
+                h4 {
+                    font-style: italic;
                     color: #879bbc;
-                    margin-right: 20px;
-
-                    h3 {
-                        color: #000000;
-                    }
-
-                    h3, h4 {
-                        margin:0;
-                    }
-
-                    h4 {
-                        font-style: italic;
-                        color: #879bbc;
-                    }
                 }
             }
 
@@ -355,18 +428,17 @@ ul {
             .contact {
                 text-align: center;
                 flex: 1;
-                display: block;
-                color: #000000;
-                text-decoration: none;
 
-                .link-text {
-
+                a {
+                    color: #000000;
+                    text-decoration: none;
                 }
             }
         }
     }
 
 }
+
 
 .page, .bio {
     .header {
@@ -826,6 +898,7 @@ ul {
                 list-style: none;
                 padding: 0;
                 display: flex;
+                flex-wrap: wrap;
 
                 li {
                     padding-right: 20px;
