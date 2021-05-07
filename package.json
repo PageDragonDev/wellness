@@ -15,7 +15,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
     "jstransformer-ejs": "^0.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "metalsmith": "^2.3.0",
     "metalsmith-better-excerpts": "^0.2.1",
     "metalsmith-collections": "^0.9.0",
