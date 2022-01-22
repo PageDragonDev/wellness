@@ -28,7 +28,7 @@
     "metalsmith-stylus": "^3.0.0",
     "metalsmith-watch": "^1.0.3",
     "moment": "^2.22.2",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "slug": "^0.9.2"
   },
   "author": "",
